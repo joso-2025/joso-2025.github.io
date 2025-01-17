@@ -17,4 +17,4 @@ The conference will be held at the University of Pau and Pays de l'Adour
 
 ## Program under construction
 
-
+<img src="/images/logo-inria.png" alt="drawing" width="100"/>
