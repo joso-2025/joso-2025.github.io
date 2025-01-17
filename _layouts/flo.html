@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+
+<!doctype html>
+<html>
+ <head> 
+  <meta  charset="utf-8"> 
+  <title>{{ page.title  }}</title>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  {% feed_meta %}
+  {% seo %}
+ </head> 
+ <body>
+  <div class="center">
+  <img  src="{{ 'images/inria-banner.png' | relative_url }}" 
+   style="max-width: 1200px" class="center" />
+  </div>
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  <div class="wrapper">
+  {{ content }} 
+  
+    <p class="rss-subscribe">subscribe 
+      <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>
+    </p>
+  </div>
+ 
+ </body> 
+</html> 
