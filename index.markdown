@@ -44,41 +44,41 @@ The conference is held at the University of Pau and Pays de l'Adour, in the Pré
 
 <table width="500" border="1">
   <tr>
-    <td bgcolor="#d6eaf8" width=100 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Tuesday, March 18th </b> </h4> </td> 
+    <td bgcolor="#d6eaf8" width=120 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Tuesday, March 18th </b> </h4> </td> 
   </tr>
   <tr>
-    <td width=100 align="right"> 9:00 -- 10:00   </td><td>  </td>
+    <td width=120 align="right"> 9:00 -- 10:00   </td><td>  </td>
   </tr>
   <tr>
-    <td width=100 align="right">10:00 -- 11:00   </td><td>  </td>
+    <td width=120 align="right">10:00 -- 11:00   </td><td>  </td>
   </tr>
   <tr>
-    <td width=100 align="right">11:00 -- 12:00   </td><td>  </td>
+    <td width=120 align="right">11:00 -- 12:00   </td><td>  </td>
   </tr> 
 </table>
 
 <table width="500" border="1">
   <tr>
-    <td bgcolor="#d6eaf8" width=100 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Wednesday, March 19th </b> </h4> </td> 
+    <td bgcolor="#d6eaf8" width=120 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Wednesday, March 19th </b> </h4> </td> 
   </tr>
   <tr>
-    <td width=100 align="right"> 9:00 -- 10:00   </td><td>  </td>
+    <td width=120 align="right"> 9:00 -- 10:00   </td><td>  </td>
   </tr>
   <tr>
-    <td width=100 align="right">10:00 -- 11:00   </td><td>  </td>
+    <td width=120 align="right">10:00 -- 11:00   </td><td>  </td>
   </tr>
 
 </table>
 
 <table width="500" border="1">
   <tr>
-    <td bgcolor="#d6eaf8" width=100 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Thrusday, March 20th </b> </h4> </td> 
+    <td bgcolor="#d6eaf8" width=120 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Thrusday, March 20th </b> </h4> </td> 
   </tr>
   <tr>
-    <td width=100 align="right" > 9:00 -- 10:00   </td><td>  </td>
+    <td width=120 align="right" > 9:00 -- 10:00   </td><td>  </td>
   </tr>
   <tr>
-    <td width=100 align="right" >10:00 -- 11:00   </td><td>  </td>
+    <td width=120 align="right" >10:00 -- 11:00   </td><td>  </td>
   </tr>
 
 </table>
