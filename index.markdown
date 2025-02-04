@@ -5,7 +5,7 @@
 layout: ongoing
 ---
 
-#### [Location](#location)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Speakers](#invited-speakers)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Program](#program) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Abstracts](#list-of-abstracts) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+#### [Location](#location)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Speakers](#invited-speakers)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Program](#program) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Abstracts](#list-of-abstracts) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Organization team](#Organization-Committee)
 
 ---
 
@@ -30,6 +30,13 @@ The conference is held at the University of Pau and Pays de l'Adour, in the Pré
 - ### [Hélène Barucq](https://team.inria.fr/makutu/) (Inria Makutu)
 - ### Person 2
 - ### Person 3
+
+---
+
+<br/>
+
+
+### **Organization Committee**
 
 ---
 
