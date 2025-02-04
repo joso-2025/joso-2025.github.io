@@ -53,7 +53,7 @@ The conference is held at the University of Pau and Pays de l'Adour, in the Pré
     <td width=120 align="right">10:00 -- 11:00   </td><td>  </td>
   </tr>
   <tr>
-    <td width=120 align="right">11:00 -- 12:00   </td><td>  </td>
+    <td width=120 align="right">11:00 -- 12:00   </td><td> blabla </td>
   </tr> 
 </table>
 
