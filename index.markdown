@@ -103,4 +103,5 @@ The conference is held at the University of Pau and Pays de l'Adour, in the Pré
 <br/>
 <p align="center">
 <img src="/images/logo-inria.png" alt="drawing" width="100"/>
+  <img src="/images/png-transparent-totalenergies-hd-logo-thumbnail.png" alt="drawing" width="100"/>
 </p>
