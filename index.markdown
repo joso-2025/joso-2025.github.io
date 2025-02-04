@@ -31,9 +31,9 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 
 <br/>
 ### **Invited Speakers**:
-- ### [Hélène Barucq](https://team.inria.fr/makutu/) (Inria Makutu)
-- ### Person 2
-- ### Person 3
+- ### [Frédéric Alauzet](https://team.inria.fr/gammaO/) (Inria GammaO)
+- ### [Martin Gander] (https://www.unige.ch/~gander/) (Université de Genève)
+- ### [Laure Giovangigli] (https://perso.ensta-paris.fr/~giovangigli/) ENSTA
 
 ---
 
@@ -41,6 +41,12 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 
 
 ### **Organization Committee**
+- ### [Emmanuele Arcese] (CEA Cesta)
+- ### [Hélène Barucq] (Inria Makutu)
+- ### [Matthieu Lecouvez] (CEA Cesta)
+- ### [Sébastien Pernet] (Onera Toulouse)
+- ### [Ha Pham Faucher] (Inria Makutu)
+
 
 ---
 
