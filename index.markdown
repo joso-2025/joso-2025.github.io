@@ -39,11 +39,11 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 
 
 ### **Organization Committee**
-- ### [Emmanuele Arcese] (CEA Cesta)
-- ### [Hélène Barucq] (Inria Makutu)
-- ### [Matthieu Lecouvez] (CEA Cesta)
-- ### [Sébastien Pernet] (Onera Toulouse)
-- ### [Ha Pham Faucher] (Inria Makutu)
+- ### Emmanuele Arcese (CEA Cesta)
+- ### Hélène Barucq (Inria Makutu)
+- ### Matthieu Lecouvez (CEA Cesta)
+- ### Sébastien Pernet (Onera Toulouse)
+- ### Ha Pham (Inria Makutu)
 
 
 ---
