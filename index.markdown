@@ -121,6 +121,7 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 <br/>
 <br/>
 <p align="center">
-<img src="/images/logo-inria.png" alt="drawing" width="100"/>
-  <img src="/images/png-transparent-totalenergies-hd-logo-thumbnail.png" alt="drawing" width="100"/>
+<img src="/images/logo-inria.png" alt="drawing" width="150"/>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="/images/total.png" alt="drawing" width="80"/>
 </p>
