@@ -37,11 +37,14 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 
 <br/>
 <p 	align="center">
-<img src="/images/wave-2Hz_helio-scalar_scale5e-2_crop-r0.96.png" alt="drawing" width="200"/> &nbsp; &nbsp;
+<img src="/images/wave-2Hz_helio-scalar_scale5e-2_crop-r0.96.png" alt="drawing" width="200"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="/images/uz_mesh2500k_2Hz_scale2e-3_3d.png" alt="drawing" width="450"/>
 <br>
 
-Courtesy of F. Faucher, open-source software Hawen (https://ffaucher.gitlab.io/hawen-website/).
+<font size="2">  
+    Courtesy of F. Faucher (Inria Makutu), open-source software <a href="https://ffaucher.gitlab.io/hawen-website/"> Hawen </a>.
+</font>
+
 </p>
 
 ---
