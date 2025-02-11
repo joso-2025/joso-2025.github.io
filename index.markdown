@@ -14,7 +14,7 @@ layout: ongoing
 ### **Dates**:    from March 18th to 20th, 2025.
 
 
-### **Location**: 
+### **Location**
 
 The conference is held at the University of Pau and Pays de l'Adour, in the Présidence Room.
 <p 	align="center">
@@ -30,6 +30,9 @@ The conference is held at the University of Pau and Pays de l'Adour, in the Pré
 </p>
 <br/>
 
+### **Accomodation**
+<iframe src="https://www.victoriagarden.com/destination/visiter-pau/#appart>
+<br/>
 
 ### **General setting**
 
