@@ -31,10 +31,19 @@ The conference is held at the University of Pau and Pays de l'Adour, in the Pré
 <br/>
 
 ### **Accomodation**
+Here you'll find a few suggestions for hotels, but there are plenty more.
 
 - [Victoria Garden](https://www.victoriagarden.com/destination/visiter-pau/#appart)
 
+- [Ostal Hôtel](https://www.ostalhotel-pau.com/)
 
+- [Le Roncevaux](https://hotel-roncevaux-pau.com/)
+
+- [appart City confort Pau](https://www.appartcity.com/fr/destinations/aquitaine/pau/pau-centre.html?search%5BstartDate%5D=21/02/2025&search%5BendDate%5D=22/02/2025&search%5BnbAdult%5D=2&search%5BnbChild%5D=0&search%5Bcode%5D=&utm_source=google&utm_medium=mybusiness&utm_campaign=pau-centre)
+
+- [Ibis Pau centre](https://all.accor.com/hotel/1398/index.fr.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)
+
+- [Le Montpensier](https://www.villa-montpensier.com/)
 
 <br/>
 
