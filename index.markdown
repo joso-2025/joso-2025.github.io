@@ -5,7 +5,7 @@
 layout: ongoing
 ---
 
-#### [Location](#location)   &nbsp; &nbsp; &nbsp;[General Setting](#general-setting)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Speakers](#keynote-speakers)  &nbsp; &nbsp; &nbsp;[Organization team](#organization-committee)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Program](#program) &nbsp; &nbsp; &nbsp;[Abstracts](#list-of-abstracts) 
+#### [Location](#location)   &nbsp; &nbsp; [General Setting](#general-setting)   &nbsp; &nbsp;  [Accomodation](#accomodation) &nbsp; &nbsp; [Speakers](#keynote-speakers)  &nbsp; &nbsp; [Organization team](#organization-committee)  &nbsp; &nbsp;  [Program](#program) &nbsp; &nbsp; [Abstracts](#list-of-abstracts) 
 
 ---
 
@@ -31,7 +31,11 @@ The conference is held at the University of Pau and Pays de l'Adour, in the Pré
 <br/>
 
 ### **Accomodation**
-<iframe src="https://www.victoriagarden.com/destination/visiter-pau/#appart>
+
+- [Victoria Garden](https://www.victoriagarden.com/destination/visiter-pau/#appart)
+
+
+
 <br/>
 
 ### **General setting**
