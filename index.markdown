@@ -39,7 +39,7 @@ Here you'll find a few suggestions for hotels, but there are plenty more.
 
 - [Le Roncevaux](https://hotel-roncevaux-pau.com/)
 
-- [appart City confort Pau](https://www.appartcity.com/fr/destinations/aquitaine/pau/pau-centre.html?search%5BstartDate%5D=21/02/2025&search%5BendDate%5D=22/02/2025&search%5BnbAdult%5D=2&search%5BnbChild%5D=0&search%5Bcode%5D=&utm_source=google&utm_medium=mybusiness&utm_campaign=pau-centre)
+- [Appart City confort Pau](https://www.appartcity.com/fr/destinations/aquitaine/pau/pau-centre.html?search%5BstartDate%5D=21/02/2025&search%5BendDate%5D=22/02/2025&search%5BnbAdult%5D=2&search%5BnbChild%5D=0&search%5Bcode%5D=&utm_source=google&utm_medium=mybusiness&utm_campaign=pau-centre)
 
 - [Ibis Pau centre](https://all.accor.com/hotel/1398/index.fr.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)
 
