@@ -109,15 +109,15 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 
 ### **List of Abstracts**:
 
-  ## Abstract 1
-**Titre :** Modélisation mathématique des ondes acoustiques
+  ## Talk1
+**Title :** Minimization of spurious reflections for non regular traveling waves on nonuniform grids
 
-**Auteurs :** Jean Dupont, Marie Curie
+**Speaker :** Mamadou N'Diaye
 
-**Affiliation :** Université de Paris, Laboratoire de Physique des Ondes
+**Affiliation :** Université Polytechnique Hauts-de-France
 
-**Résumé :**
-Cet article présente une approche innovante de la modélisation mathématique des ondes acoustiques en milieu hétérogène. En combinant des méthodes numériques et analytiques, nous mettons en évidence de nouveaux phénomènes de dispersion et d'atténuation. Les résultats obtenus permettent d'améliorer la précision des simulations en ingénierie acoustique.
+**Abstract :**
+Spurious wave reflections are likely to occur in explicit fast dynamics computations when coupling spatial discretizations of different types and steps. It corresponds to numerical pollution that does not correspond to physical reflections caused by geometry or material impedance changes at the coupling interface. To investigate this phenomenon, we consider a 1D pre-stretched bar test case in link with Split Hopkinson Bars (SHB) and the coupled FEM-FEM for space discretization combined with leapfrog method for time integration. In this talk, we describe an optimized explicit Runge-Kutta-Nyström (RKN) time integration method to minimize spurious wave generation,  in the context of discontinuous wave propagation on nonuniform meshes. The proposed method, based on a one-dimensional analysis, consists in adjusting the parameter characterizing the RKN methods as a function of the CFL stability condition and the mesh discontinuity ratio used. It has the advantage of being non-intrusive, and can therefore be easily adapted to already existing codes. Numerical tests demonstrate the effectiveness of the method in 1D and 2D simulations.
 
 ---
 
