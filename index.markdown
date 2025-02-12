@@ -109,7 +109,7 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 
 ### **List of Abstracts**:
 
- ## Keynote 1
+## Keynote 1
  **Title:**
  
  **Speaker:**
@@ -119,7 +119,8 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
  **Abstract:**
  
 ---
- ## Keynote 2
+
+## Keynote 2
  **Title:**
  
  **Speaker:**
@@ -128,9 +129,9 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 
  **Abstract:**
  
- ---
+---
  
-  ## Keynote 3
+## Keynote 3
  **Title:**
  
  **Speaker:**
@@ -139,9 +140,9 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 
  **Abstract:**
 
- ---
+---
  
-  ## Talk 1
+## Talk 1
 **Title :** Minimization of spurious reflections for non regular traveling waves on nonuniform grids
 
 **Speaker :** Mamadou N'Diaye
@@ -166,7 +167,9 @@ Spurious wave reflections are likely to occur in explicit fast dynamics computat
 The efficient resolution of Maxwell's equations remains a priority in the field of electromagnetic simulation due to the increasing complexity of the structures and systems to be studied or qualified. In the time domain, several schemes have been and are still being studied due to their advantages. In our case, for several years, we have believed that efficient simulation of a computational scene requires dividing it into multiple zones, each treated with the appropriate scheme. In this strategy, we focus on a global meshing of the scene into a Cartesian grid with polyhedral cell inclusions. This approach has the advantage of maximizing the number of Cartesian cells, which is particularly efficient for our methods, while allowing for zones adapted to curved geometries and refinement areas that account for the multi-scale aspects of the computational scene. In our presentation, we propose to showcase the multi-domain/multi-method strategy implemented by providing examples and studies conducted on the hybridization of certain schemes. We will then focus more specifically on the latest research carried out within the framework of theses, using FVTD (Finite Volume Time Domain) and CDO (Compatible Discrete Operator) schemes.
 
 Preprint submitted to Elsevier Science, February 12, 2025
+
 ---
+
 ## Talk 3
 
 **Titre :** Conservation of divergence or rotational type constraints of hyperbolic systems with the discontinuous Galerkin method.
@@ -185,97 +188,106 @@ Finally, theory will be illustrated by numerical results obtained on 2D Maxwell 
 
 
 ---
- ## Talk 5
- **Title:**
- 
- **Speaker:**
- 
- **Affiliation:**
 
- **Abstract:**
+## Talk 5
+**Title:**
 
- ---
- ## Talk 6
- **Title:**
- 
- **Speaker:**
- 
- **Affiliation:**
+**Speaker:**
 
- **Abstract:**
+**Affiliation:**
 
- ---
- ## Talk 7
- 
- **Title:**
- 
- **Speaker:**
- 
- **Affiliation:**
+**Abstract:**
 
- **Abstract:**
+---
 
- ---
- ## Talk 8
- **Title:**
- 
- **Speaker:**
- 
- **Affiliation:**
+## Talk 6
+**Title:**
 
- **Abstract:**
+**Speaker:**
 
- ---
- ## Talk 9
- **Title:**
- 
- **Speaker:**
- 
- **Affiliation:**
+**Affiliation:**
 
- **Abstract:**
+**Abstract:**
 
- ---
- ## Talk 10
- **Title:**
- 
- **Speaker:**
- 
- **Affiliation:**
+---
 
- **Abstract:**
+## Talk 7
 
- ---
- ## Talk 11
- **Title:**
- 
- **Speaker:**
- 
- **Affiliation:**
+**Title:**
 
- **Abstract:**
+**Speaker:**
 
- ---
- ## Talk 12
- **Title:**
- 
- **Speaker:**
- 
- **Affiliation:**
+**Affiliation:**
 
- **Abstract:**
+**Abstract:**
 
- ---
- ## Talk 13
- **Title:**
- 
- **Speaker:**
- 
- **Affiliation:**
+---
 
- **Abstract:**
+## Talk 8
+**Title:**
 
- ---
+**Speaker:**
+
+**Affiliation:**
+
+**Abstract:**
+
+---
+
+## Talk 9
+**Title:**
+
+**Speaker:**
+
+**Affiliation:**
+
+**Abstract:**
+
+---
+
+## Talk 10
+**Title:**
+
+**Speaker:**
+
+**Affiliation:**
+
+**Abstract:**
+
+---
+
+## Talk 11
+**Title:**
+
+**Speaker:**
+
+**Affiliation:**
+
+**Abstract:**
+
+---
+
+## Talk 12
+**Title:**
+
+**Speaker:**
+
+**Affiliation:**
+
+**Abstract:**
+
+---
+
+## Talk 13
+**Title:**
+
+**Speaker:**
+
+**Affiliation:**
+
+**Abstract:**
+
+---
 
 <br/>
 <br/>
