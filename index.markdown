@@ -295,11 +295,13 @@ Finally, theory will be illustrated by numerical results obtained on 2D Maxwell 
 <p align="center">
 
     <img src="/images/logo-inria.png" alt="drawing" width="200"/>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+     &nbsp; 
     <img src="/images/onera.png" alt="drawing" width="220"/>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+     &nbsp; 
+    <img src="/images/UPPA.png" alt="drawing" width="150"/>
+     &nbsp; 
     <img src="/images/CEA_logo_nouveau.svg.png" alt="drawing" width="90"/>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+     &nbsp; 
     <img src="/images/total.png" alt="drawing" width="80"/>
     
 </p>
