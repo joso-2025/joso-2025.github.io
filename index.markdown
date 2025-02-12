@@ -121,16 +121,18 @@ Spurious wave reflections are likely to occur in explicit fast dynamics computat
 
 ---
 
-## Abstract 2
-**Titre :** Simulation numérique des ondes sismiques
+## Talk 2
+**Titre :** Time Schemes for Solving Maxwell's Equations in a Mesh Hybridization Strategy
 
-**Auteurs :** Alice Martin, Bernard Fourier
+**Speaker :** Xavier Ferrières
+**Co-authors :** V. Mouysset, S. Pernet, T. Volpert
 
-**Affiliation :** Institut des Sciences de la Terre, Lyon
+**Affiliation :** ONERA - The French Aerospace Lab, F-31055 Toulouse, France
 
-**Résumé :**
-Nous proposons un modèle avancé de simulation numérique des ondes sismiques basé sur des schémas d'éléments finis. Cette approche permet une meilleure prise en compte des conditions aux limites et des effets de site. Les résultats montrent une nette amélioration de la prédiction des déplacements sismiques en milieu urbain.
+**Abstract :**
+The efficient resolution of Maxwell's equations remains a priority in the field of electromagnetic simulation due to the increasing complexity of the structures and systems to be studied or qualified. In the time domain, several schemes have been and are still being studied due to their advantages. In our case, for several years, we have believed that efficient simulation of a computational scene requires dividing it into multiple zones, each treated with the appropriate scheme. In this strategy, we focus on a global meshing of the scene into a Cartesian grid with polyhedral cell inclusions. This approach has the advantage of maximizing the number of Cartesian cells, which is particularly efficient for our methods, while allowing for zones adapted to curved geometries and refinement areas that account for the multi-scale aspects of the computational scene. In our presentation, we propose to showcase the multi-domain/multi-method strategy implemented by providing examples and studies conducted on the hybridization of certain schemes. We will then focus more specifically on the latest research carried out within the framework of theses, using FVTD (Finite Volume Time Domain) and CDO (Compatible Discrete Operator) schemes.
 
+Preprint submitted to Elsevier Science, February 12, 2025
 ---
 
   <br/>
