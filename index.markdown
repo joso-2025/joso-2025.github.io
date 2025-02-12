@@ -125,6 +125,7 @@ Spurious wave reflections are likely to occur in explicit fast dynamics computat
 **Titre :** Time Schemes for Solving Maxwell's Equations in a Mesh Hybridization Strategy
 
 **Speaker :** Xavier Ferrières
+
 **Co-authors :** V. Mouysset, S. Pernet, T. Volpert
 
 **Affiliation :** ONERA - The French Aerospace Lab, F-31055 Toulouse, France
@@ -134,6 +135,19 @@ The efficient resolution of Maxwell's equations remains a priority in the field 
 
 Preprint submitted to Elsevier Science, February 12, 2025
 ---
+## Talk 3
+
+**Titre :** Conservation of divergence or rotational type constraints of hyperbolic systems with the discontinuous Galerkin method.
+
+**Speaker :** Vincent Perrier
+
+**Affiliation :** Project-team Cagire, Inria & UPPA
+
+**Abstract :**
+A number of hyperbolic systems contain implicit conservations of the rotational or divergence of certain unknowns. Examples include the acoustic system (conservation of the velocity rotational), Maxwell's system (conservation of the magnetic field divergence), or the magnetohydrodynamics system (transport of the magnetic field divergence). These constraints are generally difficult to preserve, and we generally resort to staggered schemes: historically, the MAC scheme or the Yee scheme, for example, or their finite element version, with Raviart-Thomas or Nédélec elements. The systematization of the study of these finite elements has been developed within the framework of finite element exterior calculation over the last thirty years.
+In this talk, starting from a simple problem (the long-time behavior of the acoustic system in finite volumes on triangular meshes), I will show that the classical discontinuous Galerkin spaces for vectors on triangular meshes can be put into a distributional de-Rham complex for which we can show the equivalence of the discrete and continuous cohomology groups, which is a property identical to the discrete conformal complexes involving the Nédélec and Raviart-Thomas elements. It will then be shown that we can develop approximation spaces on quadrangles on which the same type of property can be proved.
+It will further be proved that the classical discontinuous Galerkin method preserves rotationals and divergences, provided that the right approximation space is chosen, and under a diffusion direction assumption on the numerical fluxes.
+Finally, theory will be illustrated by numerical results obtained on 2D Maxwell equations, on the acoustic system, and on the induction equation.
 
   <br/>
 
