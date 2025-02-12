@@ -109,9 +109,30 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 
 ### **List of Abstracts**:
 
-  <p align="center">
-    <b> TBA ... </b>
-  </p>
+  ## Abstract 1
+**Titre :** Modélisation mathématique des ondes acoustiques
+
+**Auteurs :** Jean Dupont, Marie Curie
+
+**Affiliation :** Université de Paris, Laboratoire de Physique des Ondes
+
+**Résumé :**
+Cet article présente une approche innovante de la modélisation mathématique des ondes acoustiques en milieu hétérogène. En combinant des méthodes numériques et analytiques, nous mettons en évidence de nouveaux phénomènes de dispersion et d'atténuation. Les résultats obtenus permettent d'améliorer la précision des simulations en ingénierie acoustique.
+
+---
+
+## Abstract 2
+**Titre :** Simulation numérique des ondes sismiques
+
+**Auteurs :** Alice Martin, Bernard Fourier
+
+**Affiliation :** Institut des Sciences de la Terre, Lyon
+
+**Résumé :**
+Nous proposons un modèle avancé de simulation numérique des ondes sismiques basé sur des schémas d'éléments finis. Cette approche permet une meilleure prise en compte des conditions aux limites et des effets de site. Les résultats montrent une nette amélioration de la prédiction des déplacements sismiques en milieu urbain.
+
+---
+
   <br/>
 
 
