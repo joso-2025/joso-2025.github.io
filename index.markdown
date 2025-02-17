@@ -31,19 +31,27 @@ The conference is held at the University of Pau and Pays de l'Adour, in the Pré
 <br/>
 
 ### **Accomodation**
-Here you'll find a few suggestions for hotels, but there are plenty more.
+Here you will find a few suggestions for hotels, although there are plenty more.
 
-- [Victoria Garden](https://www.victoriagarden.com/destination/visiter-pau/#appart)
+<ul style="display: flex;">
+  <li style="flex: 1;">  <a href="https://www.victoriagarden.com/destination/visiter-pau/#appart"> Victoria Garden </a> </li>
+  <li style="flex: 1;">  <a href="https://www.ostalhotel-pau.com/"> Ostal Hôtel </a></li>
+</ul>
+<ul style="display: flex;">
+  <li style="flex: 1;">  <a href="https://hotel-roncevaux-pau.com/"> Le Roncevaux </a> </li>
+  <li style="flex: 1;">  <a href="https://www.appartcity.com/fr/destinations/aquitaine/pau/pau-centre.html?search%5BstartDate%5D=21/02/2025&search%5BendDate%5D=22/02/2025&search%5BnbAdult%5D=2&search%5BnbChild%5D=0&search%5Bcode%5D=&utm_source=google&utm_medium=mybusiness&utm_campaign=pau-centre"> Appart City confort Pau </a></li>
+</ul>
+<ul style="display: flex;">
+  <li style="flex: 1;">  <a href="https://all.accor.com/hotel/1398/index.fr.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps"> Ibis Pau centre </a> </li>
+  <li style="flex: 1;">  <a href="https://www.villa-montpensier.com/"> Le Montpensier </a></li>
+</ul>
 
-- [Ostal Hôtel](https://www.ostalhotel-pau.com/)
-
-- [Le Roncevaux](https://hotel-roncevaux-pau.com/)
-
-- [Appart City confort Pau](https://www.appartcity.com/fr/destinations/aquitaine/pau/pau-centre.html?search%5BstartDate%5D=21/02/2025&search%5BendDate%5D=22/02/2025&search%5BnbAdult%5D=2&search%5BnbChild%5D=0&search%5Bcode%5D=&utm_source=google&utm_medium=mybusiness&utm_campaign=pau-centre)
-
-- [Ibis Pau centre](https://all.accor.com/hotel/1398/index.fr.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)
-
-- [Le Montpensier](https://www.villa-montpensier.com/)
+<!-- - [Victoria Garden](https://www.victoriagarden.com/destination/visiter-pau/#appart) -->
+<!-- - [Ostal Hôtel](https://www.ostalhotel-pau.com/)  -->
+<!-- - [Le Roncevaux](https://hotel-roncevaux-pau.com/) -->
+<!-- - [Appart City confort Pau](https://www.appartcity.com/fr/destinations/aquitaine/pau/pau-centre.html?search%5BstartDate%5D=21/02/2025&search%5BendDate%5D=22/02/2025&search%5BnbAdult%5D=2&search%5BnbChild%5D=0&search%5Bcode%5D=&utm_source=google&utm_medium=mybusiness&utm_campaign=pau-centre)  -->
+<!-- - [Ibis Pau centre](https://all.accor.com/hotel/1398/index.fr.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)  -->
+<!-- - [Le Montpensier](https://www.villa-montpensier.com/)  -->
 
 <br/>
 
