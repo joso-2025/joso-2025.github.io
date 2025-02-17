@@ -270,13 +270,14 @@ Finally, theory will be illustrated by numerical results obtained on 2D Maxwell 
 ---
 
 ## Talk 8
-**Title:** TBA
+**Title:** A Quasi-Trefftz Method for the Iterative Solution of Time-Harmonic Wave Problems based on the Flux Reconstruction Method
 
 **Speaker:** Matthias Rivet
 
 **Affiliation:** Onera Toulouse, UPPA, Inria, TotalEnergies, Makutu, UMR CNRS 5142
-
-**Abstract:** TBA
+**Co-authors:** Sébastien Permet (Onera, Toulouse) and Sébastien Tordeux (UPPA, Inria, TotalEnergies, Makutu, UMR CNRS 5142)
+**Abstract:** In this talk, we will consider the problem of time-harmonic wave propagation in large domains for which classical numerical methods lead to memory-prohibitive direct solution, and matrices which are poorly suited to iterative algorithms. Then, we introduce a Trefftz approach, which can be seen a Discontinuous Galerkin formulation whose basis functions are actual solutions of the equations, and is well adaptable to iterative solution. Plane Waves are classically chosen as basis functions, unfortunately leading to conditioning and precision limitations.
+Thus, we propose a quasi-Trefftz approach based on a Flux Reconstruction solver and local polynomial boundary conditions, allowing to define well-conditioned basis functions. Properties, optimisation and calibration of this local solver will be investigated through numerical convergence studies, and will demonstrate the robustness and precision of this methodology in HPC context.
 
 ---
 
