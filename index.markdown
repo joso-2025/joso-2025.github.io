@@ -364,8 +364,8 @@ it reduces the relative error for large enough numbers of grid points per wavele
 <br/>
 <br/>
 <br/>
-<p align="center">
 
+<p align="center">
     <img src="/images/logo-inria.png" alt="drawing" width="200"/>
      &nbsp; 
     <img src="/images/onera.png" alt="drawing" width="220"/>
@@ -375,5 +375,4 @@ it reduces the relative error for large enough numbers of grid points per wavele
     <img src="/images/CEA_logo_nouveau.svg.png" alt="drawing" width="90"/>
      &nbsp; 
     <img src="/images/total.png" alt="drawing" width="80"/>
-    
 </p>
