@@ -174,7 +174,6 @@ Spurious wave reflections are likely to occur in explicit fast dynamics computat
 **Abstract :**
 The efficient resolution of Maxwell's equations remains a priority in the field of electromagnetic simulation due to the increasing complexity of the structures and systems to be studied or qualified. In the time domain, several schemes have been and are still being studied due to their advantages. In our case, for several years, we have believed that efficient simulation of a computational scene requires dividing it into multiple zones, each treated with the appropriate scheme. In this strategy, we focus on a global meshing of the scene into a Cartesian grid with polyhedral cell inclusions. This approach has the advantage of maximizing the number of Cartesian cells, which is particularly efficient for our methods, while allowing for zones adapted to curved geometries and refinement areas that account for the multi-scale aspects of the computational scene. In our presentation, we propose to showcase the multi-domain/multi-method strategy implemented by providing examples and studies conducted on the hybridization of certain schemes. We will then focus more specifically on the latest research carried out within the framework of theses, using FVTD (Finite Volume Time Domain) and CDO (Compatible Discrete Operator) schemes.
 
-Preprint submitted to Elsevier Science, February 12, 2025
 
 ---
 
