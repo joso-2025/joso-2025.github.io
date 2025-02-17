@@ -5,7 +5,7 @@
 layout: ongoing
 ---
 
-#### [Location](#location)   &nbsp; &nbsp; [General Setting](#general-setting)   &nbsp; &nbsp;  [Accomodation](#accomodation) &nbsp; &nbsp; [Speakers](#keynote-speakers)  &nbsp; &nbsp; [Organization team](#organization-committee)  &nbsp; &nbsp;  [Program](#program) &nbsp; &nbsp; [Abstracts](#list-of-abstracts) 
+#### [Location](#location)   &nbsp; &nbsp; [General Setting](#general-setting)   &nbsp; &nbsp;  [Accomodation](#accomodation) &nbsp; &nbsp; [Speakers](#keynote-speakers)  &nbsp; &nbsp; [Organization team](#organization-committee)  &nbsp; &nbsp;  [Program](#program) &nbsp; &nbsp; [Abstracts](#list-of-abstracts)
 
 ---
 
@@ -17,7 +17,7 @@ layout: ongoing
 ### **Location**
 
 The conference is held at the University of Pau and Pays de l'Adour, in the Présidence Room.
-<p 	align="center">
+<p     align="center">
 <img src="/images/image-presidence.jpg" alt="drawing" width="600"/>
 
 <br/>
@@ -79,9 +79,9 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 
 ### **Keynote Speakers**
 
-- ### [Frédéric Alauzet](https://team.inria.fr/gammaO/) (Inria GammaO)
+- ### [Frédéric Alauzet](https://team.inria.fr/gammaO/) (Inria, GammaO)
 - ### [Martin Gander](https://www.unige.ch/~gander/) (Université de Genève)
-- ### [Laure Giovangigli](https://perso.ensta-paris.fr/~giovangigli/) (ENSTA)
+- ### [Laure Giovangigli](https://perso.ensta-paris.fr/~giovangigli/) (POEMS, CNRS, Inria, ENSTA Paris, Institut Polytechnique de Paris)
 
 ---
 
@@ -117,25 +117,55 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 
 ### **List of Abstracts**:
 
-## Keynote 1
- **Title:**
- 
- **Speaker:**
- 
- **Affiliation:**
 
- **Abstract:**
+<br/>
+
+## Keynote 1
+
+**Title:** Wave propagation in random multi-scale media and quantitative ultrasound imaging
+ 
+**Speaker:** Laure Giovangigli
+ 
+**Affiliation:** POEMS, CNRS, Inria, ENSTA Paris, Institut Polytechnique de Paris
+
+**Co-authors:** Josselin Garnier (CMAP, CNRS, Ecole Polytechnique, Institut Polytechnique de Paris), Quentin Goepfert (CMAP, CNRS, Ecole Polytechnique & POEMS, CNRS, Inria, ENSTA Paris, Institut Polytechnique de Paris), Pierre Millien (Institut Langevin, ESPCI Paris, PSL University, CNRS), and Emile Parolin (Alpines, Inria, LJLL, Sorbonne Université)
+
+**Abstract:** Due to the technical progress in sensors manufacturing during the last decades
+and the access to now extensive computational resources, the research in ultrasound
+imaging focuses now on refining the reconstruction algorithm and the underlying
+mathematical model. In soft tissues, the measured echoes come from numerous
+weakly contrasted unresolved scatterers. In this work we first aim at providing a
+mathematical framework for wave propagation in tissue-mimicking random multi-scale media. We derive a quantitative asymptotic expansion of the measured field
+with respect to the size of the scatterers using stochastic homogenization 
+[Garnier, Giovangigli, Goepfert and Millien, Scattered wavefield in the stochastic homogenization regime, 2023]. We
+also present numerical simulations to illustrate our results. Secondly we use this
+asymptotics of the scattered field to justify the estimators of the effective speed of
+sound inside biological tissues introduced by A. Aubry 
+[Bureau, Multi-dimensional analysis of the reflection matrix for quantitative ultrasound imaging, theses, Université Paris sciences et lettres, 2023]. 
+By analyzing the dependence of the imaging functional with respect to the backpropagation speed, we
+build an estimator of the sound speed in the random multi-scale medium. We then
+confront our results with numerical simulations and experimental results.
  
 ---
 
 ## Keynote 2
- **Title:**
+ **Title:** Best Current Parallel in Time Methods for Parabolic and Hyperbolic Problems
  
- **Speaker:**
+ **Speaker:** Martin J. Gander
  
- **Affiliation:**
+ **Affiliation:** Université de Genève, Section de Mathématiques
 
- **Abstract:**
+ **Abstract:** Space-time parallel methods, also known more recently under the name
+PinT (Parallel in Time) methods, have a long history, but they have
+received a lot of attention over the past two decades. This is driven
+by the parallel hardware architectures that have now millions of
+cores, leading to saturation when parallelizing in space
+only. Parallelizing also the time direction is tempting, but this is
+very different from the space direction, because evolution problems
+satisfy a causality principle: the future is dependent on the past,
+and not the other way round.
+
+I will show in my presentation that successful strategies for PinT methods depend strongly on the nature of the evolution problem. For hyperbolic problems, effective PinT methods are Domain Decomposition methods of Waveform Relaxation type, culminating in Unmapped Tent Pitching methods, ParaDiag methods, and also direct time parallel methods like ParaExp. Most of these methods can also be very effectively used for parabolic problems, but for such problems there are also highly successful multilevel methods, like Parareal and its variants. The currently best ones are however space-time multigrid methods. All these multilevel methods struggle however when applied to hyperbolic problems.
  
 ---
  
@@ -195,89 +225,109 @@ Finally, theory will be illustrated by numerical results obtained on 2D Maxwell 
 
 
 ---
-
-## Talk 5
+## Talk 4
 **Title:**
 
-**Speaker:**
+**Speaker:** Matthias Barray
 
 **Affiliation:**
 
 **Abstract:**
+
+
+## Talk 5
+**Title:** Formulation BEM de 1ère espèce appliquée à l’inspection non destructive par courants de Foucault
+
+**Speaker:** Edouard Demaldent
+
+**Affiliation:** Université Paris-Saclay, CEA, List, F-91120, Palaiseau, France; E-mail: edouard.demaldent@cea.fr
+
+**Abstract:** La méthode des éléments de frontière (BEM) est un outil de simulation approprié à de nombreuses configurations d'inspection non destructive par courants de Foucault, notamment pour aider à diagnostiquer l'intégrité des échangeurs de chaleur dans l'industrie nucléaire. Le CEA-LIST développe un code BEM dédié à ces applications intégré dans la plateforme logicielle CIVA, dont les utilisateurs cibles sont des experts en contrôle non destructif, non numériciens. Dans cet exposé, nous commencerons par introduire le contexte applicatif de l’inspection par CF. Celui-ci se caractérise par un régime asymptotique basse fréquence et forte conductivité dans une zone d’intérêt dont la taille caractéristique est inversement proportionnelle à l’épaisseur de peau, de sorte à assurer une bonne sensibilité à la présence d’un éventuel défaut. Nous développerons la variante BEM du problème de transmission de Maxwell adaptée à ce régime et mettrons en évidence la simplification du système linéaire sous-jacent à résoudre [M. Bonnet & E. Demaldent, CAMWA 2023]. Nous discuterons ensuite des activités de R&D réalisées au CEA-LIST autour de la BEM, telles que l'utilisation d'éléments de frontière d'ordre élevé.
 
 ---
 
 ## Talk 6
-**Title:**
+**Title:**Décomposition de Helmholtz sur géométrie non simplement connexe, application à la BEM de 1ère espèce pour de l’électromagnétisme basse-fréquence
 
-**Speaker:**
+**Speaker:** Marc Bakry
 
-**Affiliation:**
+**Affiliation:** Université Paris-Saclay, CEA, List, F-91120, Palaiseau, France; E-mail: marc.bakry@cea.fr
 
-**Abstract:**
+**Abstract:** Dans cet exposé, on propose une nouvelle approche permettant de calculer la décomposition de Helmholtz complète pour des géométries non-connexes quelconques, éventuellement ouvertes. Sur de telles géométries, Il est connu qu’un champ se décompose en une composante à divergence nulle, une composante à rotationnel nul, et une composante harmonique. Pour cela, on introduit le projecteur quasi¬-Helmholtz sur le sous-espace harmonique. En calculant une base de l’image de la matrice de ce projecteur, on obtient directement les coefficients du développement des loops globales sur l’espace Raviart-Thomas. Cette image peut être calculée soit à partir d’une SVD réduite, soit en utilisant un algorithme appelé Randomized Range Finder qui a le bon goût d’être extrêmement simple à implémenter et très performant en pratique. Des exemples de mise œuvre de ces algorithmes sont donnés pour l’EFIE « basse-fréquence » et sur des configurations concrètes de contrôle non-destructif des structures par courants de Foucault.
 
 ---
 
 ## Talk 7
 
-**Title:**
+**Title:** TBA
 
-**Speaker:**
+**Speaker:** Lola Chabat
 
-**Affiliation:**
+**Affiliation:** UPPA, Inria, TotalEnergies, Makutu, UMR CNRS 5142
 
-**Abstract:**
+**Abstract:** TBA
 
 ---
 
 ## Talk 8
-**Title:**
+**Title:** TBA
 
-**Speaker:**
+**Speaker:** Matthias Rivet
 
-**Affiliation:**
+**Affiliation:** Onera Toulouse, UPPA, Inria, TotalEnergies, Makutu, UMR CNRS 5142
 
-**Abstract:**
+**Abstract:** TBA
 
 ---
 
 ## Talk 9
-**Title:**
+**Title:** Title: The importance of an efficient Helmholtz solver for modelling plasma
+discharges at atmospheric pressure
 
-**Speaker:**
+**Speaker:** Marie Bibal
 
-**Affiliation:**
+**Affiliation:** Onera Toulouse
 
-**Abstract:**
+**Abstract:** The objective is to present the models on which the simulation of plasma discharges at
+atmospheric pressure rely and the link with a Helmholtz solver. First, the importance of photo-
+ionization in the development of the discharge and its modeling will be explained. The classical
+approach for computing the photo-ionization source term relates on an integral over the
+entire discharge volume, which is computationally expensive. To accelerate the simulation,
+various approximations have been developed to reduce this computational cost. Among them,
+the method based on solving a set of Helmholtz equations has emerged as one of the most
+effective. This is the numerical approach adopted in the COPAIER plasma solver, developed at
+ONERA, which will be detailed.
 
 ---
 
 ## Talk 10
-**Title:**
+**Title:** TBA
 
-**Speaker:**
+**Speaker:** Guillaume Sylvand
 
-**Affiliation:**
+**Affiliation:** TBA
 
-**Abstract:**
+**Abstract:** TBA
 
 ---
 
 ## Talk 11
-**Title:**
+**Title:** Asymptotic expansion and pseudodifferential calculation methods for wave propagation and reflection in a harbor.
 
-**Speaker:**
+**Speaker:** Olivier Lafitte
 
-**Affiliation:**
+**Affiliation:** Université Sorbonne Paris Nord
 
-**Abstract:**
+**Co-authors:** E. Audusse (Université Sorbonne Paris Nord) and C. Sulem (Department of Mathematics, Toronto University)
+
+**Abstract:** Linearized wave propagation results in a system of wave equations involving the Dirichlet to Neumann (DtN) operator of the potential equation. The pseudodifferential system used to find DtN operator then allows us to find the linearized swell in an asymptotic taking into account the successive derivatives of the function characterizing the bottom. These results are valid for shallow, intermediate and deep water.
 
 ---
 
 ## Talk 12
 **Title:**
 
-**Speaker:**
+**Speaker:** Ilyes Moufid
 
 **Affiliation:**
 
@@ -288,7 +338,17 @@ Finally, theory will be illustrated by numerical results obtained on 2D Maxwell 
 ## Talk 13
 **Title:**
 
-**Speaker:**
+**Speaker:** Jean-René Poirier
+
+**Affiliation:**
+
+**Abstract:**
+
+---
+## Talk 14
+**Title:**
+
+**Speaker:** Pierre-Henri Cocquet
 
 **Affiliation:**
 
