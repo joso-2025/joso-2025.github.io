@@ -247,7 +247,7 @@ Finally, theory will be illustrated by numerical results obtained on 2D Maxwell 
 ---
 
 ## Talk 6
-**Title:**Décomposition de Helmholtz sur géométrie non simplement connexe, application à la BEM de 1ère espèce pour de l’électromagnétisme basse-fréquence
+**Title:** Décomposition de Helmholtz sur géométrie non simplement connexe, application à la BEM de 1ère espèce pour de l’électromagnétisme basse-fréquence
 
 **Speaker:** Marc Bakry
 
