@@ -353,11 +353,12 @@ ONERA, which will be detailed.
 
 **Affiliation:** Université de Pau et des Pays de l'Adour, Laboratoire SIAME.
 
-**Abstract:**  This talk will present a dispersion correction method for finite difference schemes applied
+**Abstract:** This talk will present a dispersion correction method for finite difference schemes applied
 to the Helmholtz equation. The latter is based on the introduction of a shifted wavenumber in the FD
 stencil that can be determined in closed form by minimizing the dispersion error.
 We will apply this technique on some specific FD stencil and show, though some numerical experiments, that
 it reduces the relative error for large enough numbers of grid points per wavelength.
+
 ---
 
 <br/>
