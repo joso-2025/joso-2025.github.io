@@ -353,7 +353,7 @@ discharges at atmospheric pressure
 
 **Speaker:** Marie Bibal
 
-**Affiliation:** Onera Toulouse
+**Affiliation:** ONERA - The French Aerospace Lab, F-31055 Toulouse, France
 
 **Abstract:** The objective is to present the models on which the simulation of plasma discharges at
 atmospheric pressure rely and the link with a Helmholtz solver. First, the importance of photo-
@@ -372,7 +372,7 @@ ONERA, which will be detailed.
 
 **Speaker:** Guillaume Sylvand
 
-**Affiliation:** TBA
+**Affiliation:**
 
 **Abstract:** TBA
 
