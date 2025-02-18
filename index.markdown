@@ -101,13 +101,56 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 
 <br/>
 
-
 ### **Program**
 
-  <p align="center">
-    <b> TBA ... </b>
-  </p>
-  <br/>
+
+<table width="500" border="1">
+  <tr>
+    <td bgcolor="#d6eaf8" width=120 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Tuesday, March 18th </b> </h4> </td> 
+  </tr>
+  <tr> <td width=120 align="right"> 12:00 -- 13:40   </td><td> <b>Welcome Lunch at University restaurant La Vague </b> </td> </tr> 
+  <tr> <td width=120 align="right"> 13:40 -- 13:45   </td><td> Conference introduction </td> </tr> 
+  <tr> <td width=120 align="right"> 13:45 -- 14:15   </td><td> Talk   </td> </tr> 
+  <tr> <td width=120 align="right"> 14:15 -- 14:45   </td><td> Talk   </td> </tr> 
+  <tr> <td width=120 align="right"> 14:45 -- 15:30   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
+  <tr> <td width=120 align="right"> 15:30 -- 16:00   </td><td> Talk   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Talk   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Talk   </td> </tr> 
+</table>
+
+<table width="500" border="1">
+  <tr>
+    <td bgcolor="#d6eaf8" width=120 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Wednesday, March 19th </b> </h4> </td> 
+  </tr>
+  <tr> <td width=120 align="right">  8:30 --  9:30   </td><td> Keynote </td> </tr> 
+  <tr> <td width=120 align="right">  9:30 -- 10:00   </td><td> Talk </td> </tr> 
+  <tr> <td width=120 align="right"> 10:00 -- 10:45   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
+  <tr> <td width=120 align="right"> 10:45 -- 11:15   </td><td> Talk </td> </tr> 
+  <tr> <td width=120 align="right"> 11:15 -- 11:45   </td><td> Talk </td> </tr> 
+  <tr> <td width=120 align="right"> 11:45 -- 12:30   </td><td> Session Poster </td> </tr> 
+  <tr> <td width=120 align="right"> 12:30 -- 13:45   </td><td> <b> Lunch at University restaurant La Vague </b> </td> </tr> 
+  <tr> <td width=120 align="right"> 13:45 -- 14:45   </td><td> Keynote   </td> </tr> 
+  <tr> <td width=120 align="right"> 14:45 -- 15:15   </td><td> Talk   </td> </tr> 
+  <tr> <td width=120 align="right"> 15:15 -- 16:00   </td><td> <b> Coffee break for Discussion </b> </td> </tr>  
+  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Talk   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Talk   </td> </tr> 
+  <tr> <td width=120 align="right">                  </td><td>   </td> </tr> 
+  <tr> <td width=120 align="right"> 19:30   </td><td>  <b> Conference Dinner </b> </td> </tr> 
+
+</table>
+
+<table width="500" border="1">
+  <tr>
+    <td bgcolor="#d6eaf8" width=120 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Thrusday, March 20th </b> </h4> </td> 
+  </tr>
+  <tr> <td width=120 align="right">  9:15 -- 10:15   </td><td> Keynote </td> </tr> 
+  <tr> <td width=120 align="right"> 10:15 -- 11:00   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
+  <tr> <td width=120 align="right"> 11:00 -- 11:30   </td><td> Talk </td> </tr> 
+  <tr> <td width=120 align="right"> 11:30 -- 12:00   </td><td> Talk </td> </tr> 
+  <tr> <td width=120 align="right"> 12:00 -- 12:30   </td><td> Talk </td> </tr> 
+  <tr> <td width=120 align="right"> 12:30 -- 14:00   </td><td> <b> Buffet at University restaurant La Vague </b> </td> </tr> 
+
+</table>
 
     
 ---
