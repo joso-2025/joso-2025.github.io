@@ -321,7 +321,7 @@ Moreover, we also present a method, based on a refinement technique, for validat
 
 **Affiliation:** UPPA, Inria, Makutu, TotalEnergies, UMR CNRS 5142
 
-**Co-authors:** Ha Pham, Florian Faucher and Hélène Barucq (Inria, Makutu, TotalEnergies, UPPA, UMR CNRS 5142) 
+**Co-authors:** Ha Pham, Florian Faucher, Hélène Barucq (Inria, Makutu, TotalEnergies, UPPA, UMR CNRS 5142) and Damien Fournier (Max Planck Institute for Solar System Research)
 
 **Abstract:** Small acoustic solar waves can be modeled with the linearized equations derived by Lynden-Bell and Ostriker (1967). 
 Without Cowling's approximation,  this system of equation consists of an equation of motion defined on the Sun and Poisson's equation with vanishing source in the atmosphere, and has as unknowns, the Lagragian displacement and gravity perturbation. It is closed by a vanishing-at-infinity condition for the gravity perturbation, and a closed boundary condition for the displacement at the surface. 
