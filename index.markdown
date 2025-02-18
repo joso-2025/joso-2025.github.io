@@ -163,7 +163,7 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
 
 <br/>
 
-## Keynote 1
+## Keynote 
 
 **Title:** Wave propagation in random multi-scale media and quantitative ultrasound imaging
  
@@ -191,7 +191,8 @@ confront our results with numerical simulations and experimental results.
  
 ---
 
-## Keynote 2
+## Keynote 
+
  **Title:** Best Current Parallel in Time Methods for Parabolic and Hyperbolic Problems
  
  **Speaker:** Martin J. Gander
@@ -212,18 +213,20 @@ I will show in my presentation that successful strategies for PinT methods depen
  
 ---
  
-## Keynote 3
- **Title:**
- 
- **Speaker:**
- 
- **Affiliation:**
+## Keynote 
 
- **Abstract:**
+ **Title:** TBA
+ 
+ **Speaker:** Frédéric Alauzet
+ 
+ **Affiliation:** Inria GammaO
+
+ **Abstract:** TBA
 
 ---
  
-## Talk 1
+## Talk 
+
 **Title :** Minimization of spurious reflections for non regular traveling waves on nonuniform grids
 
 **Speaker :** Mamadou N'Diaye
@@ -235,7 +238,8 @@ Spurious wave reflections are likely to occur in explicit fast dynamics computat
 
 ---
 
-## Talk 2
+## Talk 
+
 **Titre :** Time Schemes for Solving Maxwell's Equations in a Mesh Hybridization Strategy
 
 **Speaker :** Xavier Ferrières
@@ -250,7 +254,7 @@ The efficient resolution of Maxwell's equations remains a priority in the field 
 
 ---
 
-## Talk 3
+## Talk 
 
 **Titre :** Conservation of divergence or rotational type constraints of hyperbolic systems with the discontinuous Galerkin method.
 
@@ -268,14 +272,23 @@ Finally, theory will be illustrated by numerical results obtained on 2D Maxwell 
 
 
 ---
-## Talk 4
-**Title:**
+## Talk 
+
+**Title:** Cancellation Integration Scheme for the Magnetic Boundary Integral  Operator on Curved Elements and Application to the Accurate Computation of the Radar Cross Section
 
 **Speaker:** Matthias Barray
 
-**Affiliation:**
+**Affiliation:** CEA Cesta
 
-**Abstract:**
+**Co-authors:** Angès Pujol (CEA Cesta), Emanuele Arcese (CEA Cesta) and Francis Collino (CEA Cesta)
+
+**Abstract:** The general issue of this paper concerns the accurate computation of the Radar Cross Section (RCS) of an object made of some homogeneous dielectric materials. The RCS is computed here by solving the boundary integral equation: the PMCHWT. Its discretization is done with a Galerkin method using the well-known lowest-order Raviart-Thomas (RT) divergence-conforming basis functions. In addition, we use here a geometric approximation of the scattering surface with quadratic triangles. The PMCHWT weak formulation involves strongly singular integrals related to the magnetic boundary integral operator for which the design of accurate quadrature formulae is not an easy task.
+
+
+In this work, we propose an accurate, efficient and easy-to-implement algorithm for the evaluation of strongly singular integrals on quadratic triangles. Our integration scheme is based on a singularity cancellation technique accounting for some geometric considerations between vector basis functions and curved elements. We show, in particular, that the integral singularity is of the kind 1/R and not 1/R² as might appear at first glance when looking at magnetic boundary integral operator. This is made possible by splitting the double surface integral into two parts, each of which involves 1/R singularity thus allowing us to use the well-known Duffy's transform. As a result, the function to be integrated is continuous, making it possible to use a classical Gauss quadrature rule over 1D integration domains. An additional favorable point of the proposed scheme is that it is independent of the form of the basis functions, meaning the scheme can be easily generalized to high-order Raviart-Thomas functions, for example.
+
+
+Moreover, we also present a method, based on a refinement technique, for validating integration schemes when the exact value of the integral to be computed is not known. Some numerical results showing the efficiency of the proposed integration scheme compared to alternative techniques in the literature will be presented. We conclude with some electromagnetic benchmarks wherein an accurate computation of the RCS is required.
 
 
 ## Talk 5
