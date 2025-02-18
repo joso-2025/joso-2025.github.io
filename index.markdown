@@ -280,7 +280,7 @@ Finally, theory will be illustrated by numerical results obtained on 2D Maxwell 
 
 **Affiliation:** CEA Cesta
 
-**Co-authors:** Angès Pujol (CEA Cesta), Emanuele Arcese (CEA Cesta) and Francis Collino (CEA Cesta)
+**Co-authors:** Agnès Pujol (CEA Cesta), Emanuele Arcese (CEA Cesta) and Francis Collino (CEA Cesta)
 
 **Abstract:** The general issue of this paper concerns the accurate computation of the Radar Cross Section (RCS) of an object made of some homogeneous dielectric materials. The RCS is computed here by solving the boundary integral equation: the PMCHWT. Its discretization is done with a Galerkin method using the well-known lowest-order Raviart-Thomas (RT) divergence-conforming basis functions. In addition, we use here a geometric approximation of the scattering surface with quadratic triangles. The PMCHWT weak formulation involves strongly singular integrals related to the magnetic boundary integral operator for which the design of accurate quadrature formulae is not an easy task.
 
