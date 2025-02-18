@@ -321,7 +321,7 @@ Moreover, we also present a method, based on a refinement technique, for validat
 
 **Affiliation:** UPPA, Inria, Makutu, TotalEnergies, UMR CNRS 5142
 
-**Co-authors:** Ha Pham, Florian Faucer and Hélène Barucq (Inria, Makutu, TotalEnergies, UPPA, UMR CNRS 5142) 
+**Co-authors:** Ha Pham, Florian Faucher and Hélène Barucq (Inria, Makutu, TotalEnergies, UPPA, UMR CNRS 5142) 
 
 **Abstract:** Small acoustic solar waves can be modeled with the linearized equations derived by Lynden-Bell and Ostriker (1967). 
 Without Cowling's approximation,  this system of equation consists of an equation of motion defined on the Sun and Poisson's equation with vanishing source in the atmosphere, and has as unknowns, the Lagragian displacement and gravity perturbation. It is closed by a vanishing-at-infinity condition for the gravity perturbation, and a closed boundary condition for the displacement at the surface. 
@@ -340,7 +340,7 @@ The eigenvalues computed with IPDG agree with the numerical ones computed by Gyr
 
 **Affiliation:** Onera Toulouse, UPPA, Inria, TotalEnergies, Makutu, UMR CNRS 5142
 
-**Co-authors:** Sébastien Permet (Onera, Toulouse) and Sébastien Tordeux (UPPA, Inria, TotalEnergies, Makutu, UMR CNRS 5142)
+**Co-authors:** Sébastien Pernet (Onera, Toulouse) and Sébastien Tordeux (UPPA, Inria, TotalEnergies, Makutu, UMR CNRS 5142)
 
 **Abstract:** In this talk, we will consider the problem of time-harmonic wave propagation in large domains for which classical numerical methods lead to memory-prohibitive direct solution, and matrices which are poorly suited to iterative algorithms. Then, we introduce a Trefftz approach, which can be seen a Discontinuous Galerkin formulation whose basis functions are actual solutions of the equations, and is well adaptable to iterative solution. Plane Waves are classically chosen as basis functions, unfortunately leading to conditioning and precision limitations.
 Thus, we propose a quasi-Trefftz approach based on a Flux Reconstruction solver and local polynomial boundary conditions, allowing to define well-conditioned basis functions. Properties, optimisation and calibration of this local solver will be investigated through numerical convergence studies, and will demonstrate the robustness and precision of this methodology in HPC context.
