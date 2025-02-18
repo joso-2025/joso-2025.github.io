@@ -315,13 +315,21 @@ Moreover, we also present a method, based on a refinement technique, for validat
 
 ## Talk 
 
-**Title:** TBA
+**Title:** Wave and spectral solvers with self-gravitation for radially symmetric adiabatic backgrounds in helioseismology
 
 **Speaker:** Lola Chabat
 
-**Affiliation:** UPPA, Inria, TotalEnergies, Makutu, UMR CNRS 5142
+**Affiliation:** UPPA, Inria, Makutu, TotalEnergies, UMR CNRS 5142
 
-**Abstract:** TBA
+**Co-authors:** Ha Pham, Florian Faucer and Hélène Barucq (Inria, Makutu, TotalEnergies, UPPA, UMR CNRS 5142) 
+
+**Abstract:** Small acoustic solar waves can be modeled with the linearized equations derived by Lynden-Bell and Ostriker (1967). 
+Without Cowling's approximation,  this system of equation consists of an equation of motion defined on the Sun and Poisson's equation with vanishing source in the atmosphere, and has as unknowns, the Lagragian displacement and gravity perturbation. It is closed by a vanishing-at-infinity condition for the gravity perturbation, and a closed boundary condition for the displacement at the surface. 
+Radial symmetry is exploited to decouple the problem to each harmonic mode
+and allows to impose the exact Dirichlet-to-Neumman condition for gravity perturbation.
+For wave solver, we implement and compare between HDG and CG method; for the eigensolver, we consider IPDG method. These problems are particularly challenging with standard solar model-S background,  due to the rapid drop of density and sound speed in near-surface layer. For this model and Dirac source, we observe that the HDG method,  when employed with a judicial choice of stabilization, is more robust and less sensitive to mesh refinement than CG.
+We validate both solvers by comparing with Gyre software and HMI solar spectrum.
+The eigenvalues computed with IPDG agree with the numerical ones computed by Gyre, and show agreement with the location of peaks in the Green's kernel (indicading maximum power) computed with HDG. These all agree with HMI observed eigenvalues at low frequencies.
 
 ---
 
