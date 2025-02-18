@@ -291,7 +291,7 @@ In this work, we propose an accurate, efficient and easy-to-implement algorithm 
 Moreover, we also present a method, based on a refinement technique, for validating integration schemes when the exact value of the integral to be computed is not known. Some numerical results showing the efficiency of the proposed integration scheme compared to alternative techniques in the literature will be presented. We conclude with some electromagnetic benchmarks wherein an accurate computation of the RCS is required.
 
 
-## Talk 5
+## Talk 
 **Title:** Formulation BEM de 1ère espèce appliquée à l’inspection non destructive par courants de Foucault
 
 **Speaker:** Edouard Demaldent
@@ -302,7 +302,7 @@ Moreover, we also present a method, based on a refinement technique, for validat
 
 ---
 
-## Talk 6
+## Talk 
 **Title:** Décomposition de Helmholtz sur géométrie non simplement connexe, application à la BEM de 1ère espèce pour de l’électromagnétisme basse-fréquence
 
 **Speaker:** Marc Bakry
@@ -313,7 +313,7 @@ Moreover, we also present a method, based on a refinement technique, for validat
 
 ---
 
-## Talk 7
+## Talk 
 
 **Title:** TBA
 
@@ -325,7 +325,7 @@ Moreover, we also present a method, based on a refinement technique, for validat
 
 ---
 
-## Talk 8
+## Talk 
 **Title:** A Quasi-Trefftz Method for the Iterative Solution of Time-Harmonic Wave Problems based on the Flux Reconstruction Method
 
 **Speaker:** Matthias Rivet
@@ -337,7 +337,7 @@ Thus, we propose a quasi-Trefftz approach based on a Flux Reconstruction solver 
 
 ---
 
-## Talk 9
+## Talk 
 **Title:** Title: The importance of an efficient Helmholtz solver for modelling plasma
 discharges at atmospheric pressure
 
@@ -357,7 +357,7 @@ ONERA, which will be detailed.
 
 ---
 
-## Talk 10
+## Talk 
 **Title:** TBA
 
 **Speaker:** Guillaume Sylvand
@@ -368,7 +368,7 @@ ONERA, which will be detailed.
 
 ---
 
-## Talk 11
+## Talk 
 **Title:** Asymptotic expansion and pseudodifferential calculation methods for wave propagation and reflection in a harbor.
 
 **Speaker:** Olivier Lafitte
@@ -381,7 +381,7 @@ ONERA, which will be detailed.
 
 ---
 
-## Talk 12
+## Talk
 **Title:**
 
 **Speaker:** Ilyes Moufid
@@ -392,7 +392,7 @@ ONERA, which will be detailed.
 
 ---
 
-## Talk 13
+## Talk 
 **Title:**
 
 **Speaker:** Jean-René Poirier
@@ -402,7 +402,7 @@ ONERA, which will be detailed.
 **Abstract:**
 
 ---
-## Talk 14
+## Talk 
 **Title:** Dispersion correction for finite difference approximations of Helmholtz equation.
 
 **Speaker:**  Pierre-Henri Cocquet
