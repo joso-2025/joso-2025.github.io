@@ -368,13 +368,15 @@ ONERA, which will be detailed.
 ---
 
 ## Talk 
-**Title:** TBA
+**Title:** Recent Developments in Waves Simulation at Airbus
 
-**Speaker:** Guillaume Sylvand
+**Speaker:** Guillaume SYLVAND
 
-**Affiliation:**
+**Affiliation:** Airbus Central R&T
 
-**Abstract:** TBA
+**Abstract:**  Wave propagation is at the heart of many physical aspects involved in aircraft development at Airbus.
+Thus, aeroacoustics can simulate the propagation of sound around and inside an aircraft, reducing the noise level affecting passengers, ground crew working on the aircraft and populations living around airports. On the other hand, electromagnetism governs the modeling of the operation and interactions between all the antennas equipping modern aircraft: an A350, for example, carries more than 50 antennas, meaning more than 2,500 possible interactions, which would have to be modeled at the design stage of the aircraft to ensure the proper operation of the whole.
+These two physics lead to solving the same equation, the wave equation, on problems that are potentially very large. To this end, Airbus Central R&T (in association with Inria and Cerfacs in the CONCACE joint team) is continuously developing high-performance solvers adapted to current and future computing machines. In this presentation, we present three current research directions: first, for aeroacoustics in heterogeneous media, we are interested in the use of Quasi-Trefftz based Discontinuous Galerkin Method. Then, in formulations coupling surface and volume finite elements, we work on the development of composable HPC solvers capable of handling linear systems mixing dense and sparse parts. Finally, in the case of homogeneous propagation media, we seek to improve low-rank hierarchical solvers.
 
 ---
 
