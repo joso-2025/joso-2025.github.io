@@ -110,30 +110,30 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
   </tr>
   <tr> <td width=120 align="right"> 12:00 -- 13:40   </td><td> <b>Welcome Lunch at University restaurant La Vague </b> </td> </tr> 
   <tr> <td width=120 align="right"> 13:40 -- 13:45   </td><td> Conference introduction </td> </tr> 
-  <tr> <td width=120 align="right"> 13:45 -- 14:15   </td><td> Xavier Ferrières   </td> </tr> 
-  <tr> <td width=120 align="right"> 14:15 -- 14:45   </td><td> Olivier Lafitte   </td> </tr> 
+  <tr> <td width=120 align="right"> 13:45 -- 14:15   </td><td> Xavier Ferrières, "Time Schemes for Solving Maxwell's Equations in a Mesh Hybridization Strategy"   </td> </tr> 
+  <tr> <td width=120 align="right"> 14:15 -- 14:45   </td><td> Olivier Lafitte, "Asymptotic expansion and pseudodifferential calculation methods for wave propagation and reflection in a harbor"   </td> </tr> 
   <tr> <td width=120 align="right"> 14:45 -- 15:30   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
   <tr> <td width=120 align="right"> 15:30 -- 16:00   </td><td>    </td> </tr> 
-  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Marie Bibal   </td> </tr> 
-  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Vincent Perrier   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Marie Bibal,"The importance of an efficient Helmholtz solver for modelling plasma discharges at atmospheric pressure"   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Vincent Perrier, "Conservation of divergence or rotational type constraints of hyperbolic systems with the discontinuous Galerkin method"   </td> </tr> 
 </table>
 
 <table width="500" border="1">
   <tr>
     <td bgcolor="#d6eaf8" width=120 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Wednesday, March 19th </b> </h4> </td> 
   </tr>
-  <tr> <td width=120 align="right">  8:30 --  9:30   </td><td> Laure Giovangigli </td> </tr> 
+  <tr> <td width=120 align="right">  8:30 --  9:30   </td><td> Laure Giovangigli, "Wave propagation in random multi-scale media and quantitative ultrasound imaging" </td> </tr> 
   <tr> <td width=120 align="right">  9:30 -- 10:00   </td><td> Ilyes Moufid </td> </tr> 
   <tr> <td width=120 align="right"> 10:00 -- 10:45   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
-  <tr> <td width=120 align="right"> 10:45 -- 11:15   </td><td> Lola Chabat </td> </tr> 
-  <tr> <td width=120 align="right"> 11:15 -- 11:45   </td><td> Edouard Demaldent </td> </tr> 
+  <tr> <td width=120 align="right"> 10:45 -- 11:15   </td><td> Lola Chabat, "Wave and spectral solvers with self-gravitation for radially symmetric adiabatic backgrounds in helioseismology" </td> </tr> 
+  <tr> <td width=120 align="right"> 11:15 -- 11:45   </td><td> Edouard Demaldent, "1st kind BEM applied to non-destructive eddy current testing" </td> </tr> 
   <tr> <td width=120 align="right"> 11:45 -- 12:30   </td><td> Session Poster </td> </tr> 
   <tr> <td width=120 align="right"> 12:30 -- 13:45   </td><td> <b> Lunch at University restaurant La Vague </b> </td> </tr> 
   <tr> <td width=120 align="right"> 13:45 -- 14:45   </td><td> Martin Gander, "Best Current Parallel in Time Methods for Parabolic and Hyperbolic Problems"  </td> </tr> 
-  <tr> <td width=120 align="right"> 14:45 -- 15:15   </td><td> Pierre-Henri Cocquet   </td> </tr> 
+  <tr> <td width=120 align="right"> 14:45 -- 15:15   </td><td> Pierre-Henri Cocquet, "Dispersion correction for finite difference approximations of Helmholtz equation"   </td> </tr> 
   <tr> <td width=120 align="right"> 15:15 -- 16:00   </td><td> <b> Coffee break for Discussion </b> </td> </tr>  
-  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Mark Bakry   </td> </tr> 
-  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Matthias Rivet   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Mark Bakry, "Full Helmholtz decomposition on non simply connected domains, application to 1st kind BEM for low-frequency electromagnetics"   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Matthias Rivet, "A Quasi-Trefftz Method for the Iterative Solution of Time-Harmonic Wave Problems based on the Flux Reconstruction Method"   </td> </tr> 
   <tr> <td width=120 align="right">                  </td><td>   </td> </tr> 
   <tr> <td width=120 align="right"> 19:30   </td><td>  <b> Conference Dinner </b> </td> </tr> 
 
@@ -143,11 +143,11 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
   <tr>
     <td bgcolor="#d6eaf8" width=120 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Thrusday, March 20th </b> </h4> </td> 
   </tr>
-  <tr> <td width=120 align="right">  9:15 -- 10:15   </td><td> Frédéric Alauzet </td> </tr> 
+  <tr> <td width=120 align="right">  9:15 -- 10:15   </td><td> Frédéric Alauzet, "Impact of anisotropic mesh adaptation for turbulent flows in aeronautics. Towards the certification of numerical solutions ?" </td> </tr> 
   <tr> <td width=120 align="right"> 10:15 -- 11:00   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
-  <tr> <td width=120 align="right"> 11:00 -- 11:30   </td><td> Mamadou N'Diaye </td> </tr> 
+  <tr> <td width=120 align="right"> 11:00 -- 11:30   </td><td> Mamadou N'Diaye, "Minimization of spurious reflections for non regular traveling waves on non uniform grids" </td> </tr> 
   <tr> <td width=120 align="right"> 11:30 -- 12:00   </td><td> Jean-René Poirier </td> </tr> 
-  <tr> <td width=120 align="right"> 12:00 -- 12:30   </td><td> Matthias Barray </td> </tr> 
+  <tr> <td width=120 align="right"> 12:00 -- 12:30   </td><td> Matthias Barray, "Cancellation Integration Scheme for the Magnetic Boundary Integral  Operator on Curved Elements and Application to the Accurate Computation of the Radar Cross Section" </td> </tr> 
   <tr> <td width=120 align="right"> 12:30 -- 14:00   </td><td> <b> Buffet at University restaurant La Vague </b> </td> </tr> 
 
 </table>
@@ -300,7 +300,7 @@ Moreover, we also present a method, based on a refinement technique, for validat
 
 
 ## Talk 
-**Title:** : First kind BEM applied to non-destructive eddy current testing
+**Title:** : 1st kind BEM applied to non-destructive eddy current testing
 
 **Speaker:** Edouard Demaldent
 
@@ -311,13 +311,13 @@ Moreover, we also present a method, based on a refinement technique, for validat
 ---
 
 ## Talk 
-**Title:** Décomposition de Helmholtz sur géométrie non simplement connexe, application à la BEM de 1ère espèce pour de l’électromagnétisme basse-fréquence
+**Title:** Full Helmholtz decomposition on non simply connected domains, application to 1st kind BEM for low-frequency electromagnetics
 
 **Speaker:** Marc Bakry
 
 **Affiliation:** Université Paris-Saclay, CEA, List, F-91120, Palaiseau, France; E-mail: marc.bakry@cea.fr
 
-**Abstract:** Dans cet exposé, on propose une nouvelle approche permettant de calculer la décomposition de Helmholtz complète pour des géométries non-connexes quelconques, éventuellement ouvertes. Sur de telles géométries, Il est connu qu’un champ se décompose en une composante à divergence nulle, une composante à rotationnel nul, et une composante harmonique. Pour cela, on introduit le projecteur quasi¬-Helmholtz sur le sous-espace harmonique. En calculant une base de l’image de la matrice de ce projecteur, on obtient directement les coefficients du développement des loops globales sur l’espace Raviart-Thomas. Cette image peut être calculée soit à partir d’une SVD réduite, soit en utilisant un algorithme appelé Randomized Range Finder qui a le bon goût d’être extrêmement simple à implémenter et très performant en pratique. Des exemples de mise œuvre de ces algorithmes sont donnés pour l’EFIE « basse-fréquence » et sur des configurations concrètes de contrôle non-destructif des structures par courants de Foucault.
+**Abstract:** We propose a new approach for the computation of the full Helmholtz decomposition for general, eventually open, non simply connected domains. For such geometries, it is well-known that a vector field can be decomposed into a divergence-free component, a curl-free component and a harmonic component. To that purpose, we use the quasi-Helmholtz projector on the harmonic subspace. By computing a basis of its range, we obtain directly the coefficients of the expansion of the so-called global loops on the discrete Raviart-Thomas (or RWG) subspace. This basis can be computed in two ways : either we can use a low-rank SVD (using an iterative algorithm), or we can use the so-called Randomized Range Finder algorithm which very easy to implement and very efficient in practice. Application examples with both algorithms are given for the low-frequency Electric Field Integral Equation and for real-life examples in the context of the Eddy current nondestructive testing.
 
 ---
 
