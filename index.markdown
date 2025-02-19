@@ -129,7 +129,7 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
   <tr> <td width=120 align="right"> 11:15 -- 11:45   </td><td> Edouard Demaldent </td> </tr> 
   <tr> <td width=120 align="right"> 11:45 -- 12:30   </td><td> Session Poster </td> </tr> 
   <tr> <td width=120 align="right"> 12:30 -- 13:45   </td><td> <b> Lunch at University restaurant La Vague </b> </td> </tr> 
-  <tr> <td width=120 align="right"> 13:45 -- 14:45   </td><td> Martin Gander   </td> </tr> 
+  <tr> <td width=120 align="right"> 13:45 -- 14:45   </td><td> Martin Gander, "Best Current Parallel in Time Methods for Parabolic and Hyperbolic Problems"  </td> </tr> 
   <tr> <td width=120 align="right"> 14:45 -- 15:15   </td><td> Pierre-Henri Cocquet   </td> </tr> 
   <tr> <td width=120 align="right"> 15:15 -- 16:00   </td><td> <b> Coffee break for Discussion </b> </td> </tr>  
   <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Mark Bakry   </td> </tr> 
