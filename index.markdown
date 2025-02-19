@@ -215,13 +215,21 @@ I will show in my presentation that successful strategies for PinT methods depen
  
 ## Keynote 
 
- **Title:** TBA
+ **Title:** Impact of anisotropic mesh adaptation for turbulent flows in aeronautics. Towards the certification of numerical solutions ?
  
  **Speaker:** Frédéric Alauzet
  
  **Affiliation:** Inria GammaO
 
- **Abstract:** TBA
+ **Abstract:** This presentation will discuss recent progress made in anisotropic mesh adaptation for turbulent flow (RANS) simulations. 
+We will focus on drag and lift prediction, and vortex dominated flows in aeronautics. 
+First, we will present each step of the mesh-adaptive solution platform: the flow solver Wolf, the RANS error estimates 
+(feature-based and goal-oriented will be compared), the local remesher Feflo.a and the solution interpolation method. 
+The key point is to propose robust numerical methods that are compatible with extreme anisotropy, ie element ratios of 1:100000. 
+We will describe how, in practice, the mesh adaptation loop is implemented and all the advantages of doing it in this way (multigrid type effect,free convergence study, ...). 
+In the presented examples, we will show the early capturing property of the mesh adaptation process on output functionals of interest, 
+and, the fact that the mesh-convergence of the solution is achieved even in 3D. We will also emphasize the automaticity of the mesh adaptation process and its independence to the initial mesh. 
+All these properties are a necessary first step towards the certification of numerical solutions.
 
 ---
  
