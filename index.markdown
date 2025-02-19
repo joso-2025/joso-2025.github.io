@@ -110,30 +110,30 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
   </tr>
   <tr> <td width=120 align="right"> 12:00 -- 13:40   </td><td> <b>Welcome Lunch at University restaurant La Vague </b> </td> </tr> 
   <tr> <td width=120 align="right"> 13:40 -- 13:45   </td><td> Conference introduction </td> </tr> 
-  <tr> <td width=120 align="right"> 13:45 -- 14:15   </td><td> Talk   </td> </tr> 
-  <tr> <td width=120 align="right"> 14:15 -- 14:45   </td><td> Talk   </td> </tr> 
+  <tr> <td width=120 align="right"> 13:45 -- 14:15   </td><td> Xavier Ferrières   </td> </tr> 
+  <tr> <td width=120 align="right"> 14:15 -- 14:45   </td><td> Olivier Lafitte   </td> </tr> 
   <tr> <td width=120 align="right"> 14:45 -- 15:30   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
-  <tr> <td width=120 align="right"> 15:30 -- 16:00   </td><td> Talk   </td> </tr> 
-  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Talk   </td> </tr> 
-  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Talk   </td> </tr> 
+  <tr> <td width=120 align="right"> 15:30 -- 16:00   </td><td>    </td> </tr> 
+  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Marie Bibal   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Vincent Perrier   </td> </tr> 
 </table>
 
 <table width="500" border="1">
   <tr>
     <td bgcolor="#d6eaf8" width=120 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Wednesday, March 19th </b> </h4> </td> 
   </tr>
-  <tr> <td width=120 align="right">  8:30 --  9:30   </td><td> Keynote </td> </tr> 
-  <tr> <td width=120 align="right">  9:30 -- 10:00   </td><td> Talk </td> </tr> 
+  <tr> <td width=120 align="right">  8:30 --  9:30   </td><td> Laure Giovangigli </td> </tr> 
+  <tr> <td width=120 align="right">  9:30 -- 10:00   </td><td> Ilyes Moufid </td> </tr> 
   <tr> <td width=120 align="right"> 10:00 -- 10:45   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
-  <tr> <td width=120 align="right"> 10:45 -- 11:15   </td><td> Talk </td> </tr> 
-  <tr> <td width=120 align="right"> 11:15 -- 11:45   </td><td> Talk </td> </tr> 
+  <tr> <td width=120 align="right"> 10:45 -- 11:15   </td><td> Lola Chabat </td> </tr> 
+  <tr> <td width=120 align="right"> 11:15 -- 11:45   </td><td> Edouard Demaldent </td> </tr> 
   <tr> <td width=120 align="right"> 11:45 -- 12:30   </td><td> Session Poster </td> </tr> 
   <tr> <td width=120 align="right"> 12:30 -- 13:45   </td><td> <b> Lunch at University restaurant La Vague </b> </td> </tr> 
-  <tr> <td width=120 align="right"> 13:45 -- 14:45   </td><td> Keynote   </td> </tr> 
-  <tr> <td width=120 align="right"> 14:45 -- 15:15   </td><td> Talk   </td> </tr> 
+  <tr> <td width=120 align="right"> 13:45 -- 14:45   </td><td> Martin Gander   </td> </tr> 
+  <tr> <td width=120 align="right"> 14:45 -- 15:15   </td><td> Pierre-Henri Cocquet   </td> </tr> 
   <tr> <td width=120 align="right"> 15:15 -- 16:00   </td><td> <b> Coffee break for Discussion </b> </td> </tr>  
-  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Talk   </td> </tr> 
-  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Talk   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Mark Bakry   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Matthias Rivet   </td> </tr> 
   <tr> <td width=120 align="right">                  </td><td>   </td> </tr> 
   <tr> <td width=120 align="right"> 19:30   </td><td>  <b> Conference Dinner </b> </td> </tr> 
 
@@ -143,11 +143,11 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
   <tr>
     <td bgcolor="#d6eaf8" width=120 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Thrusday, March 20th </b> </h4> </td> 
   </tr>
-  <tr> <td width=120 align="right">  9:15 -- 10:15   </td><td> Keynote </td> </tr> 
+  <tr> <td width=120 align="right">  9:15 -- 10:15   </td><td> Frédéric Alauzet </td> </tr> 
   <tr> <td width=120 align="right"> 10:15 -- 11:00   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
-  <tr> <td width=120 align="right"> 11:00 -- 11:30   </td><td> Talk </td> </tr> 
-  <tr> <td width=120 align="right"> 11:30 -- 12:00   </td><td> Talk </td> </tr> 
-  <tr> <td width=120 align="right"> 12:00 -- 12:30   </td><td> Talk </td> </tr> 
+  <tr> <td width=120 align="right"> 11:00 -- 11:30   </td><td> Mamadou N'Diaye </td> </tr> 
+  <tr> <td width=120 align="right"> 11:30 -- 12:00   </td><td> Jean-René Poirier </td> </tr> 
+  <tr> <td width=120 align="right"> 12:00 -- 12:30   </td><td> Matthias Barray </td> </tr> 
   <tr> <td width=120 align="right"> 12:30 -- 14:00   </td><td> <b> Buffet at University restaurant La Vague </b> </td> </tr> 
 
 </table>
@@ -235,7 +235,7 @@ All these properties are a necessary first step towards the certification of num
  
 ## Talk 
 
-**Title :** Minimization of spurious reflections for non regular traveling waves on nonuniform grids
+**Title :** Minimization of spurious reflections for non regular traveling waves on non uniform grids
 
 **Speaker :** Mamadou N'Diaye
 
@@ -300,13 +300,13 @@ Moreover, we also present a method, based on a refinement technique, for validat
 
 
 ## Talk 
-**Title:** Formulation BEM de 1ère espèce appliquée à l’inspection non destructive par courants de Foucault
+**Title:** : First kind BEM applied to non-destructive eddy current testing
 
 **Speaker:** Edouard Demaldent
 
 **Affiliation:** Université Paris-Saclay, CEA, List, F-91120, Palaiseau, France; E-mail: edouard.demaldent@cea.fr
 
-**Abstract:** La méthode des éléments de frontière (BEM) est un outil de simulation approprié à de nombreuses configurations d'inspection non destructive par courants de Foucault, notamment pour aider à diagnostiquer l'intégrité des échangeurs de chaleur dans l'industrie nucléaire. Le CEA-LIST développe un code BEM dédié à ces applications intégré dans la plateforme logicielle CIVA, dont les utilisateurs cibles sont des experts en contrôle non destructif, non numériciens. Dans cet exposé, nous commencerons par introduire le contexte applicatif de l’inspection par CF. Celui-ci se caractérise par un régime asymptotique basse fréquence et forte conductivité dans une zone d’intérêt dont la taille caractéristique est inversement proportionnelle à l’épaisseur de peau, de sorte à assurer une bonne sensibilité à la présence d’un éventuel défaut. Nous développerons la variante BEM du problème de transmission de Maxwell adaptée à ce régime et mettrons en évidence la simplification du système linéaire sous-jacent à résoudre [M. Bonnet & E. Demaldent, CAMWA 2023]. Nous discuterons ensuite des activités de R&D réalisées au CEA-LIST autour de la BEM, telles que l'utilisation d'éléments de frontière d'ordre élevé.
+**Abstract:** The Boundary Element Method (BEM) is suitable for many eddy current testing (ECT) configurations, in particular to help diagnose the integrity of heat exchangers in the nuclear industry. CEA-LIST is developing a BEM code dedicated to these applications, integrated into the CIVA software platform, whose target users are non-destructive testing experts. In this presentation, we will begin by introducing the application context of ECT inspection. This is characterized by an asymptotic low-frequency, high-conductivity regime in a zone of interest whose characteristic size is inversely proportional to the skin depth, so as to ensure good sensitivity to the presence of a defect. We will develop the BEM variant of Maxwell's transmission problem adapted to this regime and highlight the simplification of the underlying linear system to be solved [Bonnet & Demaldent, CAMWA 2023]. We will then discuss the R&D activities carried out at CEA-LIST around the ECT-BEM, such as the use of high-order boundary elements.
 
 ---
 
@@ -356,8 +356,7 @@ Thus, we propose a quasi-Trefftz approach based on a Flux Reconstruction solver 
 ---
 
 ## Talk 
-**Title:** Title: The importance of an efficient Helmholtz solver for modelling plasma
-discharges at atmospheric pressure
+**Title:** The importance of an efficient Helmholtz solver for modelling plasma discharges at atmospheric pressure
 
 **Speaker:** Marie Bibal
 
