@@ -113,7 +113,7 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
   <tr> <td width=120 align="right"> 13:45 -- 14:15   </td><td> Xavier Ferrières, "Time Schemes for Solving Maxwell's Equations in a Mesh Hybridization Strategy"   </td> </tr> 
   <tr> <td width=120 align="right"> 14:15 -- 14:45   </td><td> Olivier Lafitte, "Asymptotic expansion and pseudodifferential calculation methods for wave propagation and reflection in a harbor"   </td> </tr> 
   <tr> <td width=120 align="right"> 14:45 -- 15:30   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
-  <tr> <td width=120 align="right"> 15:30 -- 16:00   </td><td>    </td> </tr> 
+  <tr> <td width=120 align="right"> 15:30 -- 16:00   </td><td> Guillaume Sylvand, "Recent Developments in Waves Simulation at Airbus"   </td> </tr> 
   <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Marie Bibal,"The importance of an efficient Helmholtz solver for modelling plasma discharges at atmospheric pressure"   </td> </tr> 
   <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Vincent Perrier, "Conservation of divergence or rotational type constraints of hyperbolic systems with the discontinuous Galerkin method"   </td> </tr> 
 </table>
