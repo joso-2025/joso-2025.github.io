@@ -127,7 +127,7 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
   <tr> <td width=120 align="right"> 10:00 -- 10:45   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
   <tr> <td width=120 align="right"> 10:45 -- 11:15   </td><td> Lola Chabat, "Wave and spectral solvers with self-gravitation for radially symmetric adiabatic backgrounds in helioseismology" </td> </tr> 
   <tr> <td width=120 align="right"> 11:15 -- 11:45   </td><td> Edouard Demaldent, "1st kind BEM applied to non-destructive eddy current testing" </td> </tr> 
-  <tr> <td width=120 align="right"> 11:45 -- 12:30   </td><td> Session Poster </td> </tr> 
+  <tr> <td width=120 align="right"> 11:45 -- 12:30   </td><td> <b>Poster Session</b> </td> </tr> 
   <tr> <td width=120 align="right"> 12:30 -- 13:45   </td><td> <b> Lunch at University restaurant La Vague </b> </td> </tr> 
   <tr> <td width=120 align="right"> 13:45 -- 14:45   </td><td> Martin Gander, "Best Current Parallel in Time Methods for Parabolic and Hyperbolic Problems"  </td> </tr> 
   <tr> <td width=120 align="right"> 14:45 -- 15:15   </td><td> Pierre-Henri Cocquet, "Dispersion correction for finite difference approximations of Helmholtz equation"   </td> </tr> 
