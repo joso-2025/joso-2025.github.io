@@ -401,13 +401,15 @@ These two physics lead to solving the same equation, the wave equation, on probl
 ---
 
 ## Talk
-**Title:**
+**Title:** Optimization of equivalent circuit models for metal-patterned metasurfaces.
 
 **Speaker:** Ilyes Moufid
 
-**Affiliation:**
+**Affiliation:** CEA CESTA
 
-**Abstract:**
+**Coa-Authors:** P. Aguilera (CEA Cesta) et J. Labat (CEA Cesta)
+
+**Abstract:** To design high-absorption coatings, we focus on the characterization of metasurfaces composed of homogeneous planar materials with periodic metallic inclusions. Their modeling is carried out analytically using an equivalent circuit, assuming that the incident plane wave has a wavelength much larger than the characteristic size of the patterns. We performed a numerical study to assess the validity of the circuit models defined by the pattern geometry. Based on the obtained validity domain, we successfully carried out a shape optimization of a metasurface using a metallic frequency-selective surface. Finally, we aim to extend this work to broadband metasurfaces.
 
 ---
 
@@ -421,6 +423,7 @@ These two physics lead to solving the same equation, the wave equation, on probl
 **Abstract:**
 
 ---
+
 ## Talk 
 **Title:** Dispersion correction for finite difference approximations of Helmholtz equation.
 
