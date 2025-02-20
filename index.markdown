@@ -235,28 +235,30 @@ All these properties are a necessary first step towards the certification of num
  
 ## Talk 
 
-**Title :** Minimization of spurious reflections for non regular traveling waves on non uniform grids
+**Title:** Minimization of spurious reflections for non regular traveling waves on non uniform grids
 
-**Speaker :** Mamadou N'Diaye
+**Speaker:** Mamadou N'Diaye
 
-**Affiliation :** Université Polytechnique Hauts-de-France
+**Affiliation :** Université Polytechnique Hauts-de-France (UPHF - CERAMATHS)
 
-**Abstract :**
+**Co-authors:** E. Creusé, J. Venel (UPHF - CERAMATHS), C. Hubert (UPHF - LAMIH) et N. Leconte (ONERA - Lille)
+
+**Abstract:**
 Spurious wave reflections are likely to occur in explicit fast dynamics computations when coupling spatial discretizations of different types and steps. It corresponds to numerical pollution that does not correspond to physical reflections caused by geometry or material impedance changes at the coupling interface. To investigate this phenomenon, we consider a 1D pre-stretched bar test case in link with Split Hopkinson Bars (SHB) and the coupled FEM-FEM for space discretization combined with leapfrog method for time integration. In this talk, we describe an optimized explicit Runge-Kutta-Nyström (RKN) time integration method to minimize spurious wave generation,  in the context of discontinuous wave propagation on nonuniform meshes. The proposed method, based on a one-dimensional analysis, consists in adjusting the parameter characterizing the RKN methods as a function of the CFL stability condition and the mesh discontinuity ratio used. It has the advantage of being non-intrusive, and can therefore be easily adapted to already existing codes. Numerical tests demonstrate the effectiveness of the method in 1D and 2D simulations.
 
 ---
 
 ## Talk 
 
-**Titre :** Time Schemes for Solving Maxwell's Equations in a Mesh Hybridization Strategy
+**Titre:** Time Schemes for Solving Maxwell's Equations in a Mesh Hybridization Strategy
 
-**Speaker :** Xavier Ferrières
+**Speaker:** Xavier Ferrières
 
 **Affiliation:** ONERA - The French Aerospace Lab, F-31055 Toulouse, France
 
-**Co-authors :** V. Mouysset, S. Pernet, T. Volpert (ONERA - The French Aerospace Lab, F-31055 Toulouse, France)
+**Co-authors:** V. Mouysset, S. Pernet, T. Volpert (ONERA - The French Aerospace Lab, F-31055 Toulouse, France)
 
-**Abstract :**
+**Abstract:**
 The efficient resolution of Maxwell's equations remains a priority in the field of electromagnetic simulation due to the increasing complexity of the structures and systems to be studied or qualified. In the time domain, several schemes have been and are still being studied due to their advantages. In our case, for several years, we have believed that efficient simulation of a computational scene requires dividing it into multiple zones, each treated with the appropriate scheme. In this strategy, we focus on a global meshing of the scene into a Cartesian grid with polyhedral cell inclusions. This approach has the advantage of maximizing the number of Cartesian cells, which is particularly efficient for our methods, while allowing for zones adapted to curved geometries and refinement areas that account for the multi-scale aspects of the computational scene. In our presentation, we propose to showcase the multi-domain/multi-method strategy implemented by providing examples and studies conducted on the hybridization of certain schemes. We will then focus more specifically on the latest research carried out within the framework of theses, using FVTD (Finite Volume Time Domain) and CDO (Compatible Discrete Operator) schemes.
 
 
