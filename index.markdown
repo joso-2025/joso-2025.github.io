@@ -132,7 +132,7 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
   <tr> <td width=120 align="right"> 13:45 -- 14:45   </td><td> Martin Gander, "Best Current Parallel in Time Methods for Parabolic and Hyperbolic Problems"  </td> </tr> 
   <tr> <td width=120 align="right"> 14:45 -- 15:15   </td><td> Pierre-Henri Cocquet, "Dispersion correction for finite difference approximations of Helmholtz equation"   </td> </tr> 
   <tr> <td width=120 align="right"> 15:15 -- 16:00   </td><td> <b> Coffee break for Discussion </b> </td> </tr>  
-  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Mark Bakry, "Full Helmholtz decomposition on non simply connected domains, application to 1st kind BEM for low-frequency electromagnetics"   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Marc Bakry, "Full Helmholtz decomposition on non simply connected domains, application to 1st kind BEM for low-frequency electromagnetics"   </td> </tr> 
   <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Matthias Rivet, "A Quasi-Trefftz Method for the Iterative Solution of Time-Harmonic Wave Problems based on the Flux Reconstruction Method"   </td> </tr> 
   <tr> <td width=120 align="right">                  </td><td>   </td> </tr> 
   <tr> <td width=120 align="right"> 19:30   </td><td>  <b> Conference Dinner </b> </td> </tr> 
