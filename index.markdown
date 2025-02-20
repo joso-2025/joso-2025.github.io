@@ -396,7 +396,7 @@ These two physics lead to solving the same equation, the wave equation, on probl
 
 **Co-authors:** E. Audusse (Université Sorbonne Paris Nord) and C. Sulem (Department of Mathematics, Toronto University)
 
-**Abstract:** Linearized wave propagation results in a system of wave equations involving the Dirichlet to Neumann (DtN) operator of the potential equation. The pseudodifferential system used to find DtN operator then allows us to find the linearized swell in an asymptotic taking into account the successive derivatives of the function characterizing the bottom. These results are valid for shallow, intermediate and deep water.
+**Abstract:** Linearized wave propagation leads to a system of wave equations involving the Dirichlet to Neumann (DtN) operator of the potential equation. The pseudodifferential system used to find DtN operator then allows us to find the linearized heave in an asymptotic taking into account the successive derivatives of the function characterizing the bottom. These results are valid for shallow, intermediate and deep water.
 
 ---
 
