@@ -147,7 +147,7 @@ photonic crystal fiber applications discretized by a boundary element method"   
   <tr> <td width=120 align="right">  9:15 -- 10:15   </td><td> Frédéric Alauzet, "Impact of anisotropic mesh adaptation for turbulent flows in aeronautics. Towards the certification of numerical solutions ?" </td> </tr> 
   <tr> <td width=120 align="right"> 10:15 -- 11:00   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
   <tr> <td width=120 align="right"> 11:00 -- 11:30   </td><td> Mamadou N'Diaye, "Minimization of spurious reflections for non regular traveling waves on non uniform grids" </td> </tr> 
-  <tr> <td width=120 align="right"> 11:30 -- 12:00  Marc Bakry, "Full Helmholtz decomposition on non simply connected domains, application to 1st kind BEM for low-frequency electromagnetics" </td><td>  </td> </tr> 
+  <tr> <td width=120 align="right"> 11:30 -- 12:00  </td><td> Marc Bakry, "Full Helmholtz decomposition on non simply connected domains, application to 1st kind BEM for low-frequency electromagnetics"   </td> </tr> 
   <tr> <td width=120 align="right"> 12:00 -- 12:30   </td><td> Matthias Barray, "Cancellation Integration Scheme for the Magnetic Boundary Integral  Operator on Curved Elements and Application to the Accurate Computation of the Radar Cross Section" </td> </tr> 
   <tr> <td width=120 align="right"> 12:30 -- 14:00   </td><td> <b> Buffet at University restaurant La Vague </b> </td> </tr> 
 
