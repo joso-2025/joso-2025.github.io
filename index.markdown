@@ -132,7 +132,8 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
   <tr> <td width=120 align="right"> 13:45 -- 14:45   </td><td> Martin Gander, "Best Current Parallel in Time Methods for Parabolic and Hyperbolic Problems"  </td> </tr> 
   <tr> <td width=120 align="right"> 14:45 -- 15:15   </td><td> Pierre-Henri Cocquet, "Dispersion correction for finite difference approximations of Helmholtz equation"   </td> </tr> 
   <tr> <td width=120 align="right"> 15:15 -- 16:00   </td><td> <b> Coffee break for Discussion </b> </td> </tr>  
-  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Marc Bakry, "Full Helmholtz decomposition on non simply connected domains, application to 1st kind BEM for low-frequency electromagnetics"   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Jean-René Poirier, "Fast solution of a nonlinear eigenvalue problem from
+photonic crystal fiber applications discretized by a boundary element method"   </td> </tr> 
   <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Matthias Rivet, "A Quasi-Trefftz Method for the Iterative Solution of Time-Harmonic Wave Problems based on the Flux Reconstruction Method"   </td> </tr> 
   <tr> <td width=120 align="right">                  </td><td>   </td> </tr> 
   <tr> <td width=120 align="right"> 19:30   </td><td>  <b> Conference Dinner </b> </td> </tr> 
@@ -146,7 +147,7 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
   <tr> <td width=120 align="right">  9:15 -- 10:15   </td><td> Frédéric Alauzet, "Impact of anisotropic mesh adaptation for turbulent flows in aeronautics. Towards the certification of numerical solutions ?" </td> </tr> 
   <tr> <td width=120 align="right"> 10:15 -- 11:00   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
   <tr> <td width=120 align="right"> 11:00 -- 11:30   </td><td> Mamadou N'Diaye, "Minimization of spurious reflections for non regular traveling waves on non uniform grids" </td> </tr> 
-  <tr> <td width=120 align="right"> 11:30 -- 12:00   </td><td> Jean-René Poirier </td> </tr> 
+  <tr> <td width=120 align="right"> 11:30 -- 12:00  Marc Bakry, "Full Helmholtz decomposition on non simply connected domains, application to 1st kind BEM for low-frequency electromagnetics" </td><td>  </td> </tr> 
   <tr> <td width=120 align="right"> 12:00 -- 12:30   </td><td> Matthias Barray, "Cancellation Integration Scheme for the Magnetic Boundary Integral  Operator on Curved Elements and Application to the Accurate Computation of the Radar Cross Section" </td> </tr> 
   <tr> <td width=120 align="right"> 12:30 -- 14:00   </td><td> <b> Buffet at University restaurant La Vague </b> </td> </tr> 
 
@@ -416,13 +417,45 @@ These two physics lead to solving the same equation, the wave equation, on probl
 ---
 
 ## Talk 
-**Title:**
+
+**Title:** Fast solution of a nonlinear eigenvalue problem from
+photonic crystal fiber applications discretized by a
+boundary element method.
 
 **Speaker:** Jean-René Poirier
 
-**Affiliation:**
+**Affiliation:** INP-ENSEEIHT - LAPLACE, Toulouse
 
 **Abstract:**
+
+The computation of Photonic Crystal Fiber  with a waveguide mode solver
+based on boundary integral equation gives rise to a nonlinear eigenvalue
+problem to solve.
+
+Several strategies for solving this one can be used and a single
+non-linear resolution leads to solve several ill conditioned linear systems.
+
+H-matrices can be used in order to build a preconditioner, accelerate
+and increase the accuracy of the computations.
+
+The easiest strategy, that can illustrate the main difficulties, is to
+solve the problem using Muller’s method.
+
+This one requires a rather precise knowledge of the solution as a
+starting point.
+
+We then look at more recent techniques based on contour integrals or a
+rational interpolant that can be
+used to compute several eigenmodes simultaneously and considerably
+reduce the volume of computations.
+
+A less knowledge of the solution is needed (no close starting point) and
+the computation of several
+solutions can be done. In addition no computation with a matrix close to
+the singularity is needed.
+
+The numerical experiments show that the rational interpolant is the most
+efficient for solving this problem.
 
 ---
 
