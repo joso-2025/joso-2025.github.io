@@ -123,7 +123,7 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
     <td bgcolor="#d6eaf8" width=120 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Wednesday, March 19th </b> </h4> </td> 
   </tr>
   <tr> <td width=120 align="right">  8:30 --  9:30   </td><td> Laure Giovangigli, "Wave propagation in random multi-scale media and quantitative ultrasound imaging" </td> </tr> 
-  <tr> <td width=120 align="right">  9:30 -- 10:00   </td><td> Ilyes Moufid </td> </tr> 
+  <tr> <td width=120 align="right">  9:30 -- 10:00   </td><td> Ilyes Moufid, "Optimization of equivalent circuit models for metal-patterned metasurfaces" </td> </tr> 
   <tr> <td width=120 align="right"> 10:00 -- 10:45   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
   <tr> <td width=120 align="right"> 10:45 -- 11:15   </td><td> Lola Chabat, "Wave and spectral solvers with self-gravitation for radially symmetric adiabatic backgrounds in helioseismology" </td> </tr> 
   <tr> <td width=120 align="right"> 11:15 -- 11:45   </td><td> Edouard Demaldent, "1st kind BEM applied to non-destructive eddy current testing" </td> </tr> 
