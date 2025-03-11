@@ -142,7 +142,7 @@ photonic crystal fiber applications discretized by a boundary element method"   
 
 <table width="500" border="1">
   <tr>
-    <td bgcolor="#d6eaf8" width=120 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Thrusday, March 20th </b> </h4> </td> 
+    <td bgcolor="#d6eaf8" width=120 align="right"></td> <td align="center" bgcolor="#d6eaf8"> <h4> <b> Thursday, March 20th </b> </h4> </td> 
   </tr>
   <tr> <td width=120 align="right">  9:15 -- 10:15   </td><td> Frédéric Alauzet, "Impact of anisotropic mesh adaptation for turbulent flows in aeronautics. Towards the certification of numerical solutions ?" </td> </tr> 
   <tr> <td width=120 align="right"> 10:15 -- 11:00   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
