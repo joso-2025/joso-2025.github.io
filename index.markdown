@@ -111,11 +111,11 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
   <tr> <td width=120 align="right"> 12:00 -- 13:40   </td><td> <b>Welcome Lunch at University restaurant La Vague </b> </td> </tr> 
   <tr> <td width=120 align="right"> 13:40 -- 13:45   </td><td> Conference introduction </td> </tr> 
   <tr> <td width=120 align="right"> 13:45 -- 14:15   </td><td> Xavier Ferrières, "Time Schemes for Solving Maxwell's Equations in a Mesh Hybridization Strategy"   </td> </tr> 
-  <tr> <td width=120 align="right"> 14:15 -- 14:45   </td><td> Olivier Lafitte, "Asymptotic expansion and pseudodifferential calculation methods for wave propagation and reflection in a harbor"   </td> </tr> 
+  <tr> <td width=120 align="right"> 14:15 -- 14:45   </td><td> Lola Chabat, "Wave and spectral solvers with self-gravitation for radially symmetric adiabatic backgrounds in helioseismology"   </td> </tr> 
   <tr> <td width=120 align="right"> 14:45 -- 15:30   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
   <tr> <td width=120 align="right"> 15:30 -- 16:00   </td><td> Guillaume Sylvand, "Recent Developments in Waves Simulation at Airbus"   </td> </tr> 
   <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Marie Bibal,"The importance of an efficient Helmholtz solver for modelling plasma discharges at atmospheric pressure"   </td> </tr> 
-  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Vincent Perrier, "Conservation of divergence or rotational type constraints of hyperbolic systems with the discontinuous Galerkin method"   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td>  Matthias Rivet, "A Quasi-Trefftz Method for the Iterative Solution of Time-Harmonic Wave Problems based on the Flux Reconstruction Method" </td> </tr> 
 </table>
 
 <table width="500" border="1">
@@ -125,7 +125,7 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
   <tr> <td width=120 align="right">  8:30 --  9:30   </td><td> Laure Giovangigli, "Wave propagation in random multi-scale media and quantitative ultrasound imaging" </td> </tr> 
   <tr> <td width=120 align="right">  9:30 -- 10:00   </td><td> Ilyes Moufid, "Optimization of equivalent circuit models for metal-patterned metasurfaces" </td> </tr> 
   <tr> <td width=120 align="right"> 10:00 -- 10:45   </td><td> <b> Coffee break for Discussion </b> </td> </tr> 
-  <tr> <td width=120 align="right"> 10:45 -- 11:15   </td><td> Lola Chabat, "Wave and spectral solvers with self-gravitation for radially symmetric adiabatic backgrounds in helioseismology" </td> </tr> 
+  <tr> <td width=120 align="right"> 10:45 -- 11:15   </td><td> Olivier Lafitte, "Asymptotic expansion and pseudodifferential calculation methods for wave propagation and reflection in a harbor" </td> </tr> 
   <tr> <td width=120 align="right"> 11:15 -- 11:45   </td><td> Edouard Demaldent, "1st kind BEM applied to non-destructive eddy current testing" </td> </tr> 
   <tr> <td width=120 align="right"> 11:45 -- 12:30   </td><td> <b>Poster Session</b> </td> </tr> 
   <tr> <td width=120 align="right"> 12:30 -- 13:45   </td><td> <b> Lunch at University restaurant La Vague </b> </td> </tr> 
@@ -134,7 +134,7 @@ These meetings have been held since 2016, and are co-organized by CEA Cesta, One
   <tr> <td width=120 align="right"> 15:15 -- 16:00   </td><td> <b> Coffee break for Discussion </b> </td> </tr>  
   <tr> <td width=120 align="right"> 16:00 -- 16:30   </td><td> Jean-René Poirier, "Fast solution of a nonlinear eigenvalue problem from
 photonic crystal fiber applications discretized by a boundary element method"   </td> </tr> 
-  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Matthias Rivet, "A Quasi-Trefftz Method for the Iterative Solution of Time-Harmonic Wave Problems based on the Flux Reconstruction Method"   </td> </tr> 
+  <tr> <td width=120 align="right"> 16:30 -- 17:00   </td><td> Vincent Perrier, "Conservation of divergence or rotational type constraints of hyperbolic systems with the discontinuous Galerkin method"   </td> </tr> 
   <tr> <td width=120 align="right">                  </td><td>   </td> </tr> 
   <tr> <td width=120 align="right"> 19:30   </td><td>  <b> Conference Dinner </b> </td> </tr> 
 
