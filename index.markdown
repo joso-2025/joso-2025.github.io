@@ -472,6 +472,8 @@ stencil that can be determined in closed form by minimizing the dispersion error
 We will apply this technique on some specific FD stencil and show, though some numerical experiments, that
 it reduces the relative error for large enough numbers of grid points per wavelength.
 
+[**Download presentation**](assets/Presentation_JOSO_2025-Pierre_Henri_Cocquet.pdf)
+
 ---
 
 <br/>
