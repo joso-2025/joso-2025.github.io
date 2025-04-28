@@ -189,6 +189,8 @@ sound inside biological tissues introduced by A. Aubry
 By analyzing the dependence of the imaging functional with respect to the backpropagation speed, we
 build an estimator of the sound speed in the random multi-scale medium. We then
 confront our results with numerical simulations and experimental results.
+
+[**Download presentation**](assets/TalkLaure_Giovangigli.pdf)
  
 ---
 
@@ -262,7 +264,8 @@ Spurious wave reflections are likely to occur in explicit fast dynamics computat
 **Abstract:**
 The efficient resolution of Maxwell's equations remains a priority in the field of electromagnetic simulation due to the increasing complexity of the structures and systems to be studied or qualified. In the time domain, several schemes have been and are still being studied due to their advantages. In our case, for several years, we have believed that efficient simulation of a computational scene requires dividing it into multiple zones, each treated with the appropriate scheme. In this strategy, we focus on a global meshing of the scene into a Cartesian grid with polyhedral cell inclusions. This approach has the advantage of maximizing the number of Cartesian cells, which is particularly efficient for our methods, while allowing for zones adapted to curved geometries and refinement areas that account for the multi-scale aspects of the computational scene. In our presentation, we propose to showcase the multi-domain/multi-method strategy implemented by providing examples and studies conducted on the hybridization of certain schemes. We will then focus more specifically on the latest research carried out within the framework of theses, using FVTD (Finite Volume Time Domain) and CDO (Compatible Discrete Operator) schemes.
 
-[**Download presentation**](assets/.pdf)
+[**Download presentation**](assets/presJOSO2025-Xavier-Ferrieres.pdf)
+
 ---
 
 ## Talk 
@@ -279,7 +282,7 @@ In this talk, starting from a simple problem (the long-time behavior of the acou
 It will further be proved that the classical discontinuous Galerkin method preserves rotationals and divergences, provided that the right approximation space is chosen, and under a diffusion direction assumption on the numerical fluxes.
 Finally, theory will be illustrated by numerical results obtained on 2D Maxwell equations, on the acoustic system, and on the induction equation.
 
-  <br/>
+[**Download presentation**](assets/Vincent_Perrier.pdf)
 
 
 ---
@@ -300,6 +303,8 @@ In this work, we propose an accurate, efficient and easy-to-implement algorithm 
 
 
 Moreover, we also present a method, based on a refinement technique, for validating integration schemes when the exact value of the integral to be computed is not known. Some numerical results showing the efficiency of the proposed integration scheme compared to alternative techniques in the literature will be presented. We conclude with some electromagnetic benchmarks wherein an accurate computation of the RCS is required.
+
+[**Download presentation**](assets/BARAY_Matthias_JOSO_2025.pdf)
 
 
 ## Talk 
@@ -342,6 +347,8 @@ For wave solver, we implement and compare between HDG and CG method; for the eig
 We validate both solvers by comparing with Gyre software and HMI solar spectrum.
 The eigenvalues computed with IPDG agree with the numerical ones computed by Gyre, and show agreement with the location of peaks in the Green's kernel (indicading maximum power) computed with HDG. These all agree with HMI observed eigenvalues at low frequencies.
 
+[**Download presentation**](assets/JOSO_Chabat.pdf)
+
 ---
 
 ## Talk 
@@ -355,6 +362,9 @@ The eigenvalues computed with IPDG agree with the numerical ones computed by Gyr
 
 **Abstract:** In this talk, we will consider the problem of time-harmonic wave propagation in large domains for which classical numerical methods lead to memory-prohibitive direct solution, and matrices which are poorly suited to iterative algorithms. Then, we introduce a Trefftz approach, which can be seen a Discontinuous Galerkin formulation whose basis functions are actual solutions of the equations, and is well adaptable to iterative solution. Plane Waves are classically chosen as basis functions, unfortunately leading to conditioning and precision limitations.
 Thus, we propose a quasi-Trefftz approach based on a Flux Reconstruction solver and local polynomial boundary conditions, allowing to define well-conditioned basis functions. Properties, optimisation and calibration of this local solver will be investigated through numerical convergence studies, and will demonstrate the robustness and precision of this methodology in HPC context.
+
+[**Download presentation**](assets/Slides_JOSO_Rivet.pdf)
+
 
 ---
 
@@ -388,6 +398,8 @@ ONERA, which will be detailed.
 Thus, aeroacoustics can simulate the propagation of sound around and inside an aircraft, reducing the noise level affecting passengers, ground crew working on the aircraft and populations living around airports. On the other hand, electromagnetism governs the modeling of the operation and interactions between all the antennas equipping modern aircraft: an A350, for example, carries more than 50 antennas, meaning more than 2,500 possible interactions, which would have to be modeled at the design stage of the aircraft to ensure the proper operation of the whole.
 These two physics lead to solving the same equation, the wave equation, on problems that are potentially very large. To this end, Airbus Central R&T (in association with Inria and Cerfacs in the CONCACE joint team) is continuously developing high-performance solvers adapted to current and future computing machines. In this presentation, we present three current research directions: first, for aeroacoustics in heterogeneous media, we are interested in the use of Quasi-Trefftz based Discontinuous Galerkin Method. Then, in formulations coupling surface and volume finite elements, we work on the development of composable HPC solvers capable of handling linear systems mixing dense and sparse parts. Finally, in the case of homogeneous propagation media, we seek to improve low-rank hierarchical solvers.
 
+[**Download presentation**](assets/SYLVAND-Recent-Developments.pdf)
+
 ---
 
 ## Talk 
@@ -401,6 +413,8 @@ These two physics lead to solving the same equation, the wave equation, on probl
 
 **Abstract:** Linearized wave propagation leads to a system of wave equations involving the Dirichlet to Neumann (DtN) operator of the potential equation. The pseudodifferential system used to find DtN operator then allows us to find the linearized swell in an asymptotic taking into account the successive derivatives of the function characterizing the bottom. These results are valid for shallow, intermediate and deep water.
 
+[**Download presentation**](assets/Expose-JOSO2025-lafitte.pdf)
+
 ---
 
 ## Talk
@@ -413,6 +427,8 @@ These two physics lead to solving the same equation, the wave equation, on probl
 **Coa-Authors:** P. Aguilera (CEA Cesta) et J. Labat (CEA Cesta)
 
 **Abstract:** To design high-absorption coatings, we focus on the characterization of metasurfaces composed of homogeneous planar materials with periodic metallic inclusions. Their modeling is carried out analytically using an equivalent circuit, assuming that the incident plane wave has a wavelength much larger than the characteristic size of the patterns. We performed a numerical study to assess the validity of the circuit models defined by the pattern geometry. Based on the obtained validity domain, we successfully carried out a shape optimization of a metasurface using a metallic frequency-selective surface. Finally, we aim to extend this work to broadband metasurfaces.
+
+[**Download presentation**](assets/Presentation_MOUFID_JOSO_2025.pdf)
 
 ---
 
